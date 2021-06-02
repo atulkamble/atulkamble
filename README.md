@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<!-- Atul Kamble | GitHub Profile -->
+## Hi I'm Atul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-You can use the [editor on GitHub](https://github.com/atulkamble/atulkamble.github.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Founder, Cloud Architect and CEO at [Cloudnautic](https://thecloudnautic.com). 
+<br />I spend most of time exploring cloud console or reaching out to people and make them learn cloud.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+:mailbox: Reach me out!
 
-### Markdown
+- 🔭 I’m currently working at @Cloudnautic
+- 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
+- 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
+- 🤔 I’m looking for help with finding new opportunities.
+- 💬 Ask me about: AWS, Azure
+- 📫 How to reach me: atul_kamble@hotmail.com.
+- 💰 Accrediations : www.credly.com/users/atulkamble
+- 😄 Pronouns: Cloudnautic, AtulKamble, atulkamble.
+- ⚡ Fun fact: I am failure and my followers are succeed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#### Business
+- :paperclip: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/Resume.pdf)
+- :email: atul_kamble@hotmail.com
+- 📱 +919028288166
 
-# Header 1
-## Header 2
-### Header 3
+<details>
+<summary>
+  About Cloudnautic
+</summary>
 
-- Bulleted
-- List
+CloudNautic is registered consultant, member of AWS Partner Network, Microsoft Partner Network & Google Cloud Partner Advantage. From designing workloads, to handling management, governance compliance & cost, our IT Experts, Cloud Consultants can help you optimize your operations & map out your next steps towards business growth with adaptation of recent technologies.Cloudnautic helps Organisations to align IT with their business goals.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atulkamble/atulkamble.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Atul Kamble]: https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w/about
+[Cloudnautic]: https://www.youtube.com/channel/UC7bZ6MWDdX9iTlcVejtMAeQ
+[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
