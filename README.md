@@ -1,6 +1,21 @@
 <!-- Atul Kamble | GitHub Profile -->
 ## Hi I'm Atul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true"
+        height="130">
+</p>
+
+<p align="center">
+    <a href="https://discord.gg/HjJCwm5">
+        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+            alt="chat on Discord"></a>
+    <a href="https://twitter.com/intent/follow?screen_name=shields_io">
+        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
+</p>
+
+
 Founder, Cloud Architect and CEO at [Cloudnautic](https://thecloudnautic.com). 
 <br />I spend most of time exploring cloud console or reaching out to people and make them learn cloud.
 
