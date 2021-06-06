@@ -2,7 +2,7 @@
 ## Hi I'm Atul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <p align="center">
-    <a href="https://twitter.com/atul_kamble/follow?screen_name=atul_kamble">
+    <a href="https://twitter.com/atul_kamble">
         <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 </p>
