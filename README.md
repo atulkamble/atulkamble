@@ -26,9 +26,6 @@ You can also ask and follow me on [Linkedin: atuljkamble](https://linkedin.com/i
 - <a href="https://twitter.com/atul_kamble">
         <img src="https://img.shields.io/twitter/follow/atul_kamble?style=social&logo=twitter"
             alt="follow on Twitter"></a>
-- <a href="https://linkedin.com/in/atuljkamble">
-        <img src="https://img.shields.io/linkedin/follow/atuljkamble?style=social&logo=linkedin"
-            alt="follow on Linkedin"></a>
 
 <details>
 <summary>
