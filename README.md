@@ -21,7 +21,7 @@ Founder, Cloud Architect and CEO at [Cloudnautic](https://thecloudnautic.com).
 - :paperclip: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/Resume.pdf)
 - :email: atul_kamble@hotmail.com
 - 📱 +919028288166
-- Twitter: twitter.com/atul_kamble
+- Twitter: www.twitter.com/atul_kamble
 
 <details>
 <summary>
