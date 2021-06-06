@@ -3,6 +3,7 @@
 
 Founder, Cloud Architect and CEO at [Cloudnautic](https://thecloudnautic.com). 
 <br />I spend most of time exploring cloud console or reaching out to people and make them learn cloud.
+You can also ask and follow me on Linkedin: linkedin.com/in/atuljkamble
 
 :mailbox: Reach me out!
 
