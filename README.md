@@ -6,14 +6,13 @@ Founder, Cloud Architect and CEO at [Cloudnautic](https://thecloudnautic.com).
 
 You can also ask and follow me on [Linkedin: atuljkamble](https://linkedin.com/in/atuljkamble)
 
-:mailbox: Reach me out!
-
-- 🔭 I’m currently working at @Cloudnautic
+- 📫 Reach me out!: atul_kamble@hotmail.com. 
+- 🔭 Graduated from [Pune University](http://www.unipune.ac.in), [Shivaji University, Kolhapur](http://www.unishivaji.ac.in)
 - 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
 - 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
 - 🤔 I’m looking for help with finding new opportunities.
 - 💬 Ask me about: AWS, Azure
-- 📫 How to reach me: atul_kamble@hotmail.com.
+
 - 💰 Accrediations : [Credly: atulkamble](www.credly.com/users/atulkamble) | [Accredible: atuljaywantkamble](https://www.credential.net/profile/atuljaywantkamble/wallet)
 - 😄 Pronouns: Cloudnautic, AtulKamble, atulkamble.
 - ⚡ Fun fact: I am failure and my followers are succeed.
