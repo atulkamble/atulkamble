@@ -7,7 +7,7 @@ Founder, Cloud Architect and CEO at [Cloudnautic](https://thecloudnautic.com).
 You can also ask and follow me on [Linkedin: atuljkamble](https://linkedin.com/in/atuljkamble)
 
 - 📫 Reach me out!: atul_kamble@hotmail.com. 
-- 🔭 Graduated from B.E.-Computer [Pune University](http://www.unipune.ac.in) | Postgraduated from M.Tech-IT [Shivaji University, Kolhapur](http://www.unishivaji.ac.in)
+- 🔭 Graduated (B.E.-Computer) from [Pune University](http://www.unipune.ac.in) | Postgraduated (M.Tech-IT) from [Shivaji University, Kolhapur](http://www.unishivaji.ac.in)
 - 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
 - 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
 - 🤔 I’m looking for help with finding new opportunities.
