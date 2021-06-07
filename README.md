@@ -30,9 +30,7 @@ You can also ask and follow me on [Linkedin: atuljkamble](https://linkedin.com/i
 - :paperclip: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/Resume.pdf)
 - :email: atul_kamble@hotmail.com
 - 📱 +919028288166
-- <a href="https://twitter.com/atul_kamble">
-        <img src="https://img.shields.io/twitter/follow/atul_kamble?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
+
 
 <details>
 <summary>
