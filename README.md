@@ -11,9 +11,7 @@ You can also ask and follow me on [Linkedin: atuljkamble](https://linkedin.com/i
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@atul_kamble-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/atul_kamble)](https://twitter.com/atul_kamble) [![Mail Badge](https://img.shields.io/badge/-AtulKamble-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w) [![Linkedin Badge](https://img.shields.io/badge/-atuljkamble-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atuljkamble/) [![Mail Badge][![Mail Badge](https://img.shields.io/badge/-atulkamble-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:atul_kamble@hotmail.com)
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-atuljkamble-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atuljkamble/)[![Twitter Badge](https://img.shields.io/badge/-@atul_kamble-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/atul_kamble)](https://twitter.com/atul_kamble)(https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w)
 
 
 - 📫 Reach me out!: atul_kamble@hotmail.com. 
