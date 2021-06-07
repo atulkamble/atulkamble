@@ -6,6 +6,16 @@ Founder, Cloud Architect and CEO at [Cloudnautic](https://thecloudnautic.com).
 
 You can also ask and follow me on [Linkedin: atuljkamble](https://linkedin.com/in/atuljkamble)
 
+
+
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@atul_kamble-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/atul_kamble)](https://twitter.com/atul_kamble) [![Mail Badge](https://img.shields.io/badge/-AtulKamble-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w) [![Linkedin Badge](https://img.shields.io/badge/-atuljkamble-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atuljkamble/) [![Mail Badge][![Mail Badge](https://img.shields.io/badge/-atulkamble-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:atul_kamble@hotmail.com)
+
+
+
+
 - 📫 Reach me out!: atul_kamble@hotmail.com. 
 - 🔭 Graduated (B.E.-Computer) from [Pune University](http://www.unipune.ac.in) | Postgraduated (M.Tech-IT) from [Shivaji University, Kolhapur](http://www.unishivaji.ac.in)
 - 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
