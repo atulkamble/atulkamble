@@ -11,7 +11,7 @@ You can also ask and follow me on [Linkedin: atuljkamble](https://linkedin.com/i
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-atuljkamble-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atuljkamble/)[![Twitter Badge](https://img.shields.io/badge/-@atul_kamble-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/atul_kamble)](https://twitter.com/atul_kamble)(https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w)
+[![Linkedin Badge](https://img.shields.io/badge/-atuljkamble-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atuljkamble/)[![Twitter Badge](https://img.shields.io/badge/-@atul_kamble-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/atul_kamble)](https://twitter.com/atul_kamble)
 
 
 - 📫 Reach me out!: atul_kamble@hotmail.com. 
