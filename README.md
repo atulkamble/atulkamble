@@ -27,7 +27,7 @@ You can also ask and follow me on [Linkedin: atuljkamble](https://linkedin.com/i
 
 
 #### Business
-- :paperclip: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
 - :email: atul_kamble@hotmail.com
 - 📱 +919028288166
 
