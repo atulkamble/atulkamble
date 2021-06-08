@@ -21,7 +21,7 @@ You can also ask and follow me on [Linkedin: atuljkamble](https://linkedin.com/i
 - 🤔 I’m looking for help with finding new opportunities.
 - 💬 Ask me about: AWS, Azure, K8s, Terraform
 
-- 💰 Accrediations : [Credly: atulkamble](www.credly.com/users/atulkamble) | [Accredible: atuljaywantkamble](https://www.credential.net/profile/atuljaywantkamble/wallet)
+- 💰 Accrediations : [Credly: atulkamble](https://www.credly.com/users/atulkamble) | [Accredible: atuljaywantkamble](https://www.credential.net/profile/atuljaywantkamble/wallet)
 - 😄 Pronouns: Cloudnautic, AtulKamble, atulkamble.
 - ⚡ Fun fact: I am failure and my followers are succeed.
 
