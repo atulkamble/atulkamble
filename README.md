@@ -12,8 +12,6 @@
   <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>
 </p>
 
-
-
 - 📫 Reach me out!: atul_kamble@hotmail.com. 
 - 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
 - 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
@@ -45,7 +43,7 @@
 
 <details>
 <summary>
-  About Cloudnautic
+## About Cloudnautic
 </summary>
 
 CloudNautic is registered consultant, member of AWS Partner Network, Microsoft Partner Network & Google Cloud Partner Advantage. From designing workloads, to handling management, governance compliance & cost, our IT Experts, Cloud Consultants can help you optimize your operations & map out your next steps towards business growth with adaptation of recent technologies.Cloudnautic helps Organisations to align IT with their business goals.
