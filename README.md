@@ -10,17 +10,10 @@
 </p>
 
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> This is Atul.
-Founder, 💻 Cloud Architect and CEO [@Cloudnautic](https://thecloudnautic.com). 🎓 [Pune University](http://www.unipune.ac.in) & [Shivaji University, Kolhapur](http://www.unishivaji.ac.in) Alumni, 🏙️ IN
-
-
-
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-atuljkamble-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atuljkamble/)[![Twitter Badge](https://img.shields.io/badge/-@atul_kamble-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/atul_kamble)](https://twitter.com/atul_kamble)[![Mail Badge](https://img.shields.io/badge/-AtulKamble-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w) 
-
+Founder, 💻 Cloud Architect and CEO [@Cloudnautic](https://thecloudnautic.com). 
+Alumni 🎓 [Pune University](http://www.unipune.ac.in) & [Shivaji University, Kolhapur](http://www.unishivaji.ac.in) | India
 
 - 📫 Reach me out!: atul_kamble@hotmail.com. 
-- 🔭 Graduated (B.E.-Computer) from  | Postgraduated (M.Tech-IT) from 
 - 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
 - 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
 - 🤔 I’m looking for help with finding new opportunities.
