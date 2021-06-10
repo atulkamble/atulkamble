@@ -19,11 +19,19 @@
 - 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
 - 🤔 I’m looking for help with finding new opportunities.
 - 💬 Ask me about: AWS, Azure, K8s, Terraform
-
 - 💰 Accrediations : [Credly: atulkamble](https://www.credly.com/users/atulkamble) | [Accredible: atuljaywantkamble](https://www.credential.net/profile/atuljaywantkamble/wallet)
 - 😄 Pronouns: Cloudnautic, AtulKamble, atulkamble.
 - ⚡ Fun fact: I am failure and my followers are succeed.
 
+## 🧰 Technologies:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="60" style="vertical-align:top; margin:4px"> -->
+</p>
 
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
