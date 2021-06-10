@@ -25,7 +25,7 @@
 - 😄 Pronouns: Cloudnautic, AtulKamble, atulkamble.
 - ⚡ Fun fact: I am failure and my followers are succeed.
 
-## Tools & Technologies:
+## 🧰 Tools & Technologies:
 <p align="center">
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/azure.png" alt="Azure" height="60" style="vertical-align:top; margin:4px">
