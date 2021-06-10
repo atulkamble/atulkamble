@@ -33,6 +33,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="60" style="vertical-align:top; margin:4px"> -->
 </p>
 
+### Github Stats
+
+[![Atul Kamble's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atulkamble&show_icons=true&count_private=true)](https://github.com/atulkamble)
+
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
 - :email: atul_kamble@hotmail.com
