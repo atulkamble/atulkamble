@@ -25,7 +25,7 @@
 - 😄 Pronouns: Cloudnautic, AtulKamble, atulkamble.
 - ⚡ Fun fact: I am failure and my followers are succeed.
 
-## Technologies:
+## Tools & Technologies:
 <p align="center">
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/azure.png" alt="Azure" height="60" style="vertical-align:top; margin:4px">
@@ -34,7 +34,14 @@
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
 </p>
 
-## Github Stats:
+
+## 📚 Latest Blog Articles
+- [Terraform-Commands-Cheatsheet](https://atuljkamble.medium.com/terraform-commands-cheatsheet-d64b8e8ab35)
+- [Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam Study Notes](https://atulkamble.github.io/AviatrixACE/)
+- [Last Hour Study Notes| AZ-900 Exam (Updated Sept 2020)](https://atuljkamble.medium.com/last-hour-study-az-900-exam-42fdffec558f)
+- [AZ-900 | Study Notes](https://atuljkamble.medium.com/az-900-study-notes-233f120a075c)
+
+## 📈 Github Stats:
 <a href="https://github.com/atulkamble/atulkamble">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atulkamble&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Atul Kamble's GitHub Stats" />
 </a>
