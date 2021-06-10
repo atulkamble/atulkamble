@@ -27,11 +27,11 @@
 
 ## 🧰 Tools & Technologies:
 <p align="center">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/azure.png" alt="Azure" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/linux.png" alt="Linux" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/kubernetes.png" alt="Kubernetes" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/AWS.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Azure.png" alt="Azure" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Linux.png" alt="Linux" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Kubernetes.png" alt="Kubernetes" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
 </p>
 
 
