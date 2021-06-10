@@ -5,11 +5,11 @@
 ### - Alumni 🎓 [Pune University](http://www.unipune.ac.in), [Shivaji University](http://www.unishivaji.ac.in) | India.
 
 <p align="right">
-  <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="20" height="20"></a>
-  <a href="https://www.github.com/in/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/github.png" width="20" height="20"></a>
-  <a href="https://twitter.com/atul_kamble"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/twitter.png" width="20" height="20"></a>
-  <a href="https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/youtube.png" width="20" height="20"></a>
-  <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="20" height="20"></a>
+  <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="40" height="40"></a>
+  <a href="https://www.github.com/in/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/github.png" width="40" height="40"></a>
+  <a href="https://twitter.com/atul_kamble"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/twitter.png" width="40" height="40"></a>
+  <a href="https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/youtube.png" width="40" height="40"></a>
+  <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>
 </p>
 
 
