@@ -2,7 +2,8 @@
 ## 💬 “I could either watch it happen or be a part of it.” - Elon Musk
 # [![Atul Kamble header](https://github.com/atulkamble/atulkamble/blob/main/icons/ghcover.png)](https://atulkamble.github.io)
 
-  <img src="https://gpvc.arturio.dev/atulkamble" alt="profile views">
+![](https://komarev.com/ghpvc/?username=atulkamble)
+
 
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> This is Atul.
 >  **Founder, 💻☁️ Cloud Architect & CEO [@Cloudnautic](http://thecloudnautic.com).** <br />
