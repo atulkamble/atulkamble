@@ -2,7 +2,13 @@
 ## 💬 “I could either watch it happen or be a part of it.” - Elon Musk
 # [![Atul Kamble header](https://github.com/atulkamble/atulkamble/blob/main/icons/ghcover.png)](https://atulkamble.github.io)
 
+
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=atulkamble)
+<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+</p>
+
 
 
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> This is Atul.
