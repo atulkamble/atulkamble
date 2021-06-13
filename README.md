@@ -17,7 +17,7 @@
   <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>
 </p>
 
-- 📫 Reach me out!: atul_kamble@hotmail.com 
+- 📫 Reach me out!: atul_kamble@hotmail.com, ceo@thecloudnautic.com
 - 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
 - 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
 - 🤔 I’m looking for help with finding new opportunities.
