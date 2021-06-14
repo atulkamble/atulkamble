@@ -62,7 +62,9 @@ Cloudnautic is registered consultant, member of AWS Partner Network, Microsoft P
 
 [Atul Kamble]: https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w/about
 [Cloudnautic]: https://www.youtube.com/channel/UC7bZ6MWDdX9iTlcVejtMAeQ
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
 
 
-</>🔍[@atulkamble](https://github.com/atulkamble) #atulkamble #wce #gcoeara #unipune #unishivaji #cloudnautic | © 2021
+
+#atulkamble #cloudnautic #pune #cloud #cloudcomputing #aws #azure #gcp #amazonwebservices #microsoftazure #googlecloudplatform #kubernetes #terraform #devops #IT #machinelearning #datascience #ai #artificialintelligence #bigdada #cloudera #walchandcollegeofengineering #wce #governmentcollegeofengineeringandresearch #gcoeara #puneuniversity #shivajiuniversity #unipune #unishivaji 
+
+</>🔍[@atulkamble](https://github.com/atulkamble)  | © 2021
