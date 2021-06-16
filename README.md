@@ -35,7 +35,6 @@
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
 </p>
 
-
 ## 📚 Latest Blog Articles
 - [Terraform-Commands-Cheatsheet](https://atuljkamble.medium.com/terraform-commands-cheatsheet-d64b8e8ab35)
 - [Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam Study Notes](https://atulkamble.github.io/AviatrixACE/)
@@ -44,6 +43,9 @@
 
 ## 🏆 Profile Trophies:
 <p align="left"> <a href="https://github.com/atulkamble/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulkamble&theme=darkhub" alt="atulkamble" /></a></p>
+
+## 👨‍💻 Most Used Languages:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkamble&show_icons=true&locale=en&layout=compact" alt="atulkamble" /></p><br><br><br>
 
 ## 📈 Github Stats:
 <a href="https://github.com/atulkamble/atulkamble">
