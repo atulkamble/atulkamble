@@ -50,9 +50,7 @@
 <br />
 
 ## 📈 Github Stats:
-<a href="https://github.com/atulkamble/atulkamble">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atulkamble&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Atul Kamble's GitHub Stats" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atulkamble&theme=dark)](https://git.io/streak-stats)
 
 ## 📈 Github Activity Graph:
 [![Atul Kamble's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=atulkamble&theme=react-dark)](https://github.com/atulkamble/github-readme-activity-graph)<br />  
