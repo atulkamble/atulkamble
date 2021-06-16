@@ -7,10 +7,6 @@
   <img align="center" src="https://github.com/atulkamble/atulkamble/blob/main/icons/ghcover.png" alt="" />
 </a></p>
 
-<p align="center"><a href="https://github.com/atulkamble">
-  <img align="center" src="https://komarev.com/ghpvc/?username=atulkamble&color=007ec6&style=flat-square" alt="" />
-</a></p>
-
 <p align="center">
 <a href="https://github.com/atulkamble"><img src="https://komarev.com/ghpvc/?username=atulkamble&color=007ec6&style=flat-square" alt="AtulKamble"></a>
 <a href="https://discord.gg/DY7PFDEW"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
