@@ -54,7 +54,7 @@
 </a></p>
 
 ## 📈 Github Activity Graph:
-<p align="center">[![Atul Kamble's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=atulkamble&theme=react-dark)](https://github.com/atulkamble/github-readme-activity-graph)</p><br />  
+[![Atul Kamble's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=atulkamble&theme=react-dark)](https://github.com/atulkamble/github-readme-activity-graph)<br />  
 
 ## 📈 Github Streak Stats:
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atulkamble&theme=dark)<br /> 
