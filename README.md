@@ -1,7 +1,6 @@
 <!-- Atul Kamble | GitHub Profile -->
 
 ## 💬 “I could either watch it happen or be a part of it.” - Elon Musk
-# [![Atul Kamble header](https://github.com/atulkamble/atulkamble/blob/main/icons/ghcover.png)](https://atulkamble.github.io)
 
 <p align="center"><a href="https://github.com/atulkamble">
   <img align="center" src="https://github.com/atulkamble/atulkamble/blob/main/icons/ghcover.png" alt="" />
