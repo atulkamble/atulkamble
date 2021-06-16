@@ -11,8 +11,11 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=atulkamble&color=007ec6&style=flat-square" alt="" />
 </a></p>
 
-<p align="center"><a href="https://discord.gg/DY7PFDEW"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
-<a href="https://github.com/atulkamble/atulkamble/blob/main/LICENSE"><img src="https://github.com/atulkamble/atulkamble/blob/main/Shields/github-profile-views-counter.svg?flat-square&logo=appveyor" alt="License"></a></p>
+<p align="center">
+<a href="https://github.com/atulkamble"><img src="https://komarev.com/ghpvc/?username=atulkamble&color=007ec6&style=flat-square" alt="AtulKamble"></a>
+<a href="https://discord.gg/DY7PFDEW"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://github.com/atulkamble/atulkamble/blob/main/LICENSE"><img src="https://github.com/atulkamble/atulkamble/blob/main/Shields/github-profile-views-counter.svg?flat-square&logo=appveyor" alt="License"></a>
+</p>
 
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> This is Atul.
 >  **Founder, 💻☁️ Cloud Architect & CEO [@Cloudnautic](http://thecloudnautic.com).** <br />
