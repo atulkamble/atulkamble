@@ -42,10 +42,10 @@
 - [AZ-900 | Study Notes](https://atuljkamble.medium.com/az-900-study-notes-233f120a075c)
 
 ## 🏆 Profile Trophies:
-<p align="left"> <a href="https://github.com/atulkamble/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulkamble&theme=darkhub" alt="atulkamble" /></a></p>
+<p align="center"> <a href="https://github.com/atulkamble/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulkamble&theme=darkhub" alt="atulkamble" /></a></p>
 
 ## 👨‍💻 Most Used Languages:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkamble&show_icons=true&locale=en&layout=compact" alt="atulkamble" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkamble&show_icons=true&locale=en&layout=compact" alt="atulkamble" /></p>
 <br />
 
 ## 📈 Github Stats:
