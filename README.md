@@ -42,6 +42,9 @@
 - [Last Hour Study Notes| AZ-900 Exam (Updated Sept 2020)](https://atuljkamble.medium.com/last-hour-study-az-900-exam-42fdffec558f)
 - [AZ-900 | Study Notes](https://atuljkamble.medium.com/az-900-study-notes-233f120a075c)
 
+## 🏆 Profile Trophies:
+<p align="left"> <a href="https://github.com/atulkamble/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulkamble" alt="atulkamble" /></a></p><br><br>
+
 ## 📈 Github Stats:
 <a href="https://github.com/atulkamble/atulkamble">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atulkamble&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Atul Kamble's GitHub Stats" />
