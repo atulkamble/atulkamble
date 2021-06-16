@@ -53,9 +53,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atulkamble&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Atul Kamble's GitHub Stats" />
 </a>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atulkamble)  
+## 📈 Github Activity Graph:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atulkamble)<br />  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=atulkamble) 
+## 📈 Github Streak Stats:
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=atulkamble)<br /> 
 
 ## Business:
 - :paperclip: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
