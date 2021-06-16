@@ -43,7 +43,7 @@
 - [AZ-900 | Study Notes](https://atuljkamble.medium.com/az-900-study-notes-233f120a075c)
 
 ## 🏆 Profile Trophies:
-<p align="left"> <a href="https://github.com/atulkamble/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulkamble" alt="atulkamble" /></a></p><br><br>
+<p align="left"> <a href="https://github.com/atulkamble/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulkamble&theme=darkhub" alt="atulkamble" /></a></p><br><br>
 
 ## 📈 Github Stats:
 <a href="https://github.com/atulkamble/atulkamble">
