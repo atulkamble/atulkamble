@@ -1,4 +1,7 @@
 <!-- Atul Kamble | GitHub Profile -->
+<p align="center">
+    ## 💬 “I could either watch it happen or be a part of it.” - Elon Musk
+</p>
 
 ## 💬 “I could either watch it happen or be a part of it.” - Elon Musk
 
