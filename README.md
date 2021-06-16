@@ -47,7 +47,6 @@
 
 ## 👨‍💻 Most Used Languages:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkamble&show_icons=true&locale=en&layout=compact" alt="atulkamble" /></p>
-<br />
 
 ## 📈 Github Stats:
 <a href="https://github.com/atulkamble/atulkamble">
