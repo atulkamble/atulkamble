@@ -1,11 +1,11 @@
-<!-- Atul Kamble | GitHub Profile -->
+<!-- Atul Kamble | GitHub Profile 
 <p align="center">
     💬 “I could either watch it happen or be a part of it.” - Elon Musk
 </p>
 
 <p align="center"><a href="https://github.com/atulkamble">
   <img align="center" src="https://github.com/atulkamble/atulkamble/blob/main/icons/ghcover.png" alt="" />
-</a></p>
+</a></p> -->
 
 <p align="center">
 <a href="https://github.com/atulkamble"><img src="https://komarev.com/ghpvc/?username=atulkamble&color=007ec6&style=flat-square" alt="AtulKamble"></a>
