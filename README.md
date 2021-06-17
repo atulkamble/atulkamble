@@ -80,7 +80,7 @@
 About Cloudnautic
 </summary>
 <br /> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cloudnautic is registered consultant, member of AWS Partner Network, Microsoft Partner Network & Google Cloud Partner Advantage. From designing workloads, to handling management, governance compliance & cost, our IT Experts, Cloud Consultants can help you optimize your operations & map out your next steps towards business growth with adaptation of recent technologies.Cloudnautic helps Organisations to align IT with their business goals.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Cloudnautic is registered consultant, member of AWS Partner Network, Microsoft Partner Network & Google Cloud Partner Advantage. From designing workloads, to handling management, governance compliance & cost, our IT Experts, Cloud Consultants can help you optimize your operations & map out your next steps towards business growth with adaptation of recent technologies.Cloudnautic helps Organisations to align IT with their business goals.**
 
 [Atul Kamble]: https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w/about
 [Cloudnautic]: https://www.youtube.com/channel/UC7bZ6MWDdX9iTlcVejtMAeQ
