@@ -31,7 +31,8 @@
 - 🤔 I’m looking for help with finding new opportunities.
 - 💬 Ask me about: AWS, Azure, K8s, Terraform
 - 💰 Accrediations : [Credly: atulkamble](https://www.credly.com/users/atulkamble) | [Accredible: atuljaywantkamble](https://www.credential.net/profile/atuljaywantkamble/wallet)
-- 💻 [I got some Gists for you as well!](https://gist.github.com/atulkamble)
+- 🔭 I also try to be active here on GitHub! [I got some Gists for you as well!](https://gist.github.com/atulkamble)
+- 💬 I Blog passionately at: [Medium:atuljkamble](https://atuljkamble.medium.com)
 - 😄 Pronouns: Cloudnautic, AtulKamble, atulkamble.
 - ⚡ Fun fact: I am failure and my followers are succeed.
 
@@ -44,7 +45,7 @@
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
 </p>
 
-## 📚 Latest Blog Articles
+## 📚 Latest Blog Articles 
 - [Terraform-Commands-Cheatsheet](https://atuljkamble.medium.com/terraform-commands-cheatsheet-d64b8e8ab35)
 - [Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam Study Notes](https://atulkamble.github.io/AviatrixACE/)
 - [Last Hour Study Notes| AZ-900 Exam (Updated Sept 2020)](https://atuljkamble.medium.com/last-hour-study-az-900-exam-42fdffec558f)
