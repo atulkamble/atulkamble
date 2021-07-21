@@ -31,7 +31,7 @@
 - 🤔 I’m looking for help with finding new opportunities.
 - 💬 Ask me about: AWS, Azure, K8s, Terraform
 - 💰 Accrediations : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
-- 🔭 I also try to be active here on GitHub! [I got some Gists for you as well!](https://gist.github.com/atulkamble)
+- 🔭 I also try to be active here on GitHub! I got some [Gists](https://gist.github.com/atulkamble) for you as well!
 - 💬 I Blog passionately at: [Medium:atuljkamble](https://atuljkamble.medium.com)
 - 😄 Pronouns: Cloudnautic, AtulKamble, atulkamble.
 - ⚡ Fun fact: I am failure and my followers are succeed.
