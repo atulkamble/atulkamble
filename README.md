@@ -32,9 +32,12 @@
 - 💬 Ask me about: AWS, Azure, K8s, Terraform
 - 💰 Accrediations : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
 - 🔭 I also try to be active here on GitHub! I got some [Gists](https://gist.github.com/atulkamble) for you as well!
-- 💬 I Blog passionately [@Medium](https://atuljkamble.medium.com)
-- 😄 Pronouns: Cloudnautic, AtulKamble, atulkamble.
+- 💬 See my blog post on [DEV.TO](https://dev.to/atulkamble) [@Medium](https://atuljkamble.medium.com)
+- 😄 I love to work with PowerShell, IAC, ARM Template, Azure Functions.
 - ⚡ Fun fact: I am failure and my followers are succeed.
+
+I love to read a technical books.
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📚<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>
 
 ## 🧰 Tools & Technologies:
 <p align="center">
