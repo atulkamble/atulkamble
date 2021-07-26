@@ -18,7 +18,7 @@
 >  **Alumni 🎓 [Pune University](https://www.unipune.ac.in), [Shivaji University](https://www.unishivaji.ac.in) | India.**
 <br />
 
-See my profile on 
+Connect to me on 
 <p align="center">
   <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="40" height="40"></a>
   <a href="https://www.github.com/in/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/github.png" width="40" height="40"></a>
