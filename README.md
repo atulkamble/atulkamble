@@ -35,7 +35,7 @@
 - 💬 See my blog post on [DEV.TO](https://dev.to/atulkamble) [@Medium](https://atuljkamble.medium.com)
 - 😄 I love to work with PowerShell, IAC, ARM Template, Azure Functions.
 - ⚡ Fun fact: My followers are more Sucessful than me.
-- <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📖<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>
+- <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>
 
 ## 🧰 Tools & Technologies:
 <p align="center">
