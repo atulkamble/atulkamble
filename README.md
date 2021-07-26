@@ -53,8 +53,8 @@
 - [AZ-900 | Study Notes](https://atuljkamble.medium.com/az-900-study-notes-233f120a075c)
 
 ## MSLearn Favorites Learning Paths
-* [Exam AZ-303: Microsoft Azure Architect Technologies - Preparation Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
-* [Exam AZ-304: Microsoft Azure Architect Design - Preparation Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
+* [Exam AZ-303: Microsoft Azure Architect Technologies - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
+* [Exam AZ-304: Microsoft Azure Architect Design - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
 
 
 ## 🏆 Profile Trophies:
