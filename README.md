@@ -52,6 +52,11 @@
 - [Last Hour Study Notes| AZ-900 Exam (Updated Sept 2020)](https://atuljkamble.medium.com/last-hour-study-az-900-exam-42fdffec558f)
 - [AZ-900 | Study Notes](https://atuljkamble.medium.com/az-900-study-notes-233f120a075c)
 
+## MSLearn Favorites Learning Paths
+* [Exam AZ-303: Microsoft Azure Architect Technologies - way to prepare](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
+* [Exam AZ-304: Microsoft Azure Architect Design - way to prepare](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
+
+
 ## 🏆 Profile Trophies:
 <p align="center"> <a href="https://github.com/atulkamble/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulkamble&theme=darkhub" alt="atulkamble" /></a></p>
 
