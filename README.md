@@ -41,6 +41,12 @@ Connect to me on
 
 ## 🧰 Tools & Technologies:
 <p align="center">
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/aws-2.svg" alt="AWS Logo" width="50" height="50"/> 
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/azure-1.svg" alt="Azure Logo" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/> 
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> 
+    
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/AWS.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Azure.png" alt="Azure" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Linux.png" alt="Linux" height="60" style="vertical-align:top; margin:4px">
