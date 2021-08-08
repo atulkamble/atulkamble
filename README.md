@@ -46,7 +46,7 @@ Connect to me on
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Kubernetes.png" alt="Kubernetes" height="60" style="vertical-align:top; margin:4px">    
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Terraform.svg" alt="Terraform" width="50" height="50"/> 
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Linux.png" alt="Linux" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Bash-1.svg" alt="Bash" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Bash.svg" alt="Bash" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/VisualStudio.svg" alt="VisualStudio" width="50" height="50"/> 
 </p>
 
