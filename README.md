@@ -41,13 +41,13 @@ Connect to me on
 
 ## 🧰 Tools & Technologies:
 <p align="center">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/aws-2.svg" alt="AWS Logo" width="50" height="50"/> 
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/azure-1.svg" alt="Azure Logo" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/AWS.svg" alt="AWS" width="50" height="50"/> 
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Azure.svg" alt="Azure" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Kubernetes.png" alt="Kubernetes" height="60" style="vertical-align:top; margin:4px">    
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/> 
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Terraform.svg" alt="Terraform" width="50" height="50"/> 
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Linux.png" alt="Linux" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> 
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Bash-1.svg" alt="Bash" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/VisualStudio.svg" alt="VisualStudio" width="50" height="50"/> 
 </p>
 
 ## 📚 Latest Blog Articles 
