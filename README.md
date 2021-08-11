@@ -33,7 +33,7 @@
 - 🤔 I’m looking for help with finding new opportunities.
 - 💬 Ask me about: AWS, Azure, K8s, Terraform
 - 💰 Accrediations : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
-- 🔭 I also try to be active here on GitHub! I got some [Instantly share code, notes, and snippets-Gists](https://gist.github.com/atulkamble) for you as well!
+- 🔭 I also try to be active here on GitHub! I got some instantly share codes, notes, snippets | [Gists](https://gist.github.com/atulkamble) for you as well!
 - 💬 See my blog post on [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com)
 - 😄 I love to work with PowerShell, IAC, ARM Template, Azure Functions.
 - ⚡ Fun fact: My followers are more Sucessful than me.
