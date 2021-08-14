@@ -86,10 +86,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulkamble&theme=dark" alt="Atul Kamble's GitHub Streak Stats" />
 </a></p>
 
-## 🎮🕹 Games
-<img src="https://img.shields.io/badge/CallOfDutyMobile?style=for-the-badge&logo=aiqfome&logoColor=white" />
-<img src="https://img.shields.io/badge/PokemonGo?style=for-the-badge&logo=Inkscape&logoColor=white" />
-
 ## Business:
 - :paperclip: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
 - :email: atul_kamble@hotmail.com
