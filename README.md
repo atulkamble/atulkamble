@@ -87,7 +87,7 @@
 </a></p>
 
 ## Business:
-- :paperclip: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
+- :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
 - :email: atul_kamble@hotmail.com
 - 📱 +919028288166
 
