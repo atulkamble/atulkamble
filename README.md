@@ -48,7 +48,7 @@
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Linux.png" alt="Linux" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Bash.svg" alt="Bash" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/VisualStudio.png" alt="VisualStudio" width="50" height="50"/> 
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/VisualStudio.png" alt="VisualStudioCode" width="50" height="50"/>    
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/VisualStudioCode.png" alt="VisualStudioCode" width="50" height="50"/>    
 </p>
 
 ## 📚 Latest Blog Articles 
