@@ -18,15 +18,6 @@
 >  **Alumni 🎓 [Pune University](https://www.unipune.ac.in), [Shivaji University](https://www.unishivaji.ac.in) | India.**
 <br />
 
-▶️ Connect to me on 
-<p align="center">
-  <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="40" height="40"></a>
-  <a href="https://twitter.com/atul_kamble"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/twitter.png" width="40" height="40"></a>
-  <a href="https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/youtube.png" width="40" height="40"></a>
-  <a href="https://www.github.com/in/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/github.png" width="40" height="40"></a>
-  <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>
-</p>
-
 - 📫 Reach me out!: atul_kamble@hotmail.com
 - 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
 - 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
@@ -38,6 +29,15 @@
 - 😄 I love to work with PowerShell, IAC, ARM Template, Azure Functions.
 - ⚡ Fun fact: My followers are more Sucessful than me.
 - <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>
+
+## 🚀 Social:
+<p align="center">
+  <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="40" height="40"></a>
+  <a href="https://twitter.com/atul_kamble"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/twitter.png" width="40" height="40"></a>
+  <a href="https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/youtube.png" width="40" height="40"></a>
+  <a href="https://www.github.com/in/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/github.png" width="40" height="40"></a>
+  <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>
+</p>
 
 ## 🧰 Tools & Technologies:
 <p align="center">
@@ -86,6 +86,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulkamble&theme=dark" alt="Atul Kamble's GitHub Streak Stats" />
 </a></p>
 
+## 🎮🕹 Games
+<img src="https://img.shields.io/badge/CallOfDutyMobile?style=for-the-badge&logo=aiqfome&logoColor=white" />
+<img src="https://img.shields.io/badge/PokemonGo?style=for-the-badge&logo=Inkscape&logoColor=white" />
 
 ## Business:
 - :paperclip: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
