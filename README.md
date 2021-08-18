@@ -1,5 +1,5 @@
 <!-- Atul Kamble | GitHub Profile -->
-# Hi there <img src="img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="28px" alt="hi"> This is Atul.
+# Hi there <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="28px" alt="hi"> This is Atul.
 <h3 align="center">A passionate Azure cloud Solutions Architect.</h3>
 
 >  **Founder, 💻☁️ Cloud Architect & CEO [@Cloudnautic](http://thecloudnautic.com).** <br />
