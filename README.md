@@ -1,7 +1,8 @@
 <!-- Atul Kamble | GitHub Profile -->
-<p align="center">
-    💬 “I could either watch it happen or be a part of it.” - Elon Musk
-</p>
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> This is Atul.
+>  **Founder, 💻☁️ Cloud Architect & CEO [@Cloudnautic](http://thecloudnautic.com).** <br />
+>  **Alumni 🎓 [Pune University](https://www.unipune.ac.in), [Shivaji University](https://www.unishivaji.ac.in) | India.**
+<br />
 
 <p align="center">
 <a href="https://github.com/atulkamble"><img src="https://komarev.com/ghpvc/?username=atulkamble&color=007ec6&style=flat-square" alt="AtulKamble"></a>
@@ -9,10 +10,7 @@
 <a href="https://github.com/atulkamble/atulkamble/blob/main/LICENSE"><img src="https://github.com/atulkamble/atulkamble/blob/main/Shields/github-profile-views-counter.svg?flat-square&logo=appveyor" alt="License"></a>
 </p>
 
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> This is Atul.
->  **Founder, 💻☁️ Cloud Architect & CEO [@Cloudnautic](http://thecloudnautic.com).** <br />
->  **Alumni 🎓 [Pune University](https://www.unipune.ac.in), [Shivaji University](https://www.unishivaji.ac.in) | India.**
-<br />
+
 
 - 📫 Reach me out!: atul_kamble@hotmail.com
 - 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
