@@ -72,13 +72,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atulkamble&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Atul Kamble's GitHub Stats" />
 </a></p>
 
-## 📈 Github Activity Graph:
-[![Atul Kamble's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=atulkamble&theme=react-dark)](https://github.com/atulkamble/github-readme-activity-graph)<br />  
-
 ## 📈 Github Streak Stats:
 <p align="center"><a href="https://github.com/atulkamble">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulkamble&theme=dark" alt="Atul Kamble's GitHub Streak Stats" />
 </a></p>
+
+## 📈 Github Activity Graph:
+[![Atul Kamble's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=atulkamble&theme=react-dark)](https://github.com/atulkamble/github-readme-activity-graph)<br />  
 
 ## Business:
 - :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
