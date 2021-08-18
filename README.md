@@ -34,14 +34,17 @@
 
 ## 🧰 Tools & Technologies:
 <p align="center">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/AWS.svg" alt="AWS" width="50" height="50"/> 
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Azure.svg" alt="Azure" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Kubernetes.png" alt="Kubernetes" height="60" style="vertical-align:top; margin:4px">    
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Terraform.png" alt="Terraform" width="50" height="50"/> 
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Linux.png" alt="Linux" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/Bash.png" alt="Bash" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/VisualStudio.png" alt="VisualStudio" width="50" height="50"/> 
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/VisualStudioCode.png" alt="VisualStudioCode" width="50" height="50"/>    
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/aws.svg" alt="AWS" width="50" height="50"/> 
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/azure.svg" alt="Azure" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/azure-devops.svg" alt="Azure DevOps" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/terraform.png" alt="Terraform" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/linux.svg" alt="Linux" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/bash.svg" alt="Bash" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/git.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/github.png" alt="GitHub" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/visual-studio.svg" alt="Visual Studio" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/vscode.svg" alt="Visual Studio Code" width="50" height="50"/>  
 </p>
 
 ## 💰 Accrediations : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
