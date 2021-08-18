@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"><a href="https://github.com/atulkamble">
-  <img align="center" src="https://github.com/atulkamble/atulkamble/blob/main/icons/ghcover.png" alt="" />
+  <img align="center" src="https://github.com/atulkamble/atulkamble/blob/main/icons/Cover.png" alt="" />
 </a></p> 
 
 <p align="center">
