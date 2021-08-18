@@ -3,10 +3,6 @@
     💬 “I could either watch it happen or be a part of it.” - Elon Musk
 </p>
 
-<p align="center"><a href="https://github.com/atulkamble">
-  <img align="center" src="https://github.com/atulkamble/atulkamble/blob/main/icons/GitHubCover.png" alt="" />
-</a></p> 
-
 <p align="center">
 <a href="https://github.com/atulkamble"><img src="https://komarev.com/ghpvc/?username=atulkamble&color=007ec6&style=flat-square" alt="AtulKamble"></a>
 <a href="https://discord.gg/DY7PFDEW"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
@@ -23,7 +19,6 @@
 - 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
 - 🤔 I’m looking for help with finding new opportunities.
 - 💬 Ask me about: AWS, Azure, K8s, Terraform
-- 💰 Accrediations : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
 - 🔭 I also try to be active here on GitHub! I got some instantly share codes, notes, snippets | [Gists](https://gist.github.com/atulkamble) for you as well!
 - 💬 See my blog post on [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com)
 - 😄 I love to work with PowerShell, IAC, ARM Template, Azure Functions.
@@ -50,6 +45,11 @@
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/VisualStudio.png" alt="VisualStudio" width="50" height="50"/> 
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Technologies/VisualStudioCode.png" alt="VisualStudioCode" width="50" height="50"/>    
 </p>
+
+## 💰 Accrediations : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
+<p align="center"><a href="https://github.com/atulkamble">
+  <img align="center" src="https://github.com/atulkamble/atulkamble/blob/main/icons/GitHubCover.png" alt="" />
+</a></p> 
 
 ## 📚 Latest Blog Articles 
 - [Terraform-Commands-Cheatsheet](https://atuljkamble.medium.com/terraform-commands-cheatsheet-d64b8e8ab35)
