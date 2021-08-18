@@ -49,7 +49,7 @@
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/github.png" alt="GitHub" width="50" height="50"/>  
 </p>
 
-## 💰 Accrediations : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
+## 💰 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
 <p align="center"><a href="https://github.com/atulkamble">
   <img align="center" src="https://github.com/atulkamble/atulkamble/blob/main/icons/GitHubCover.png" alt="" />
 </a></p> 
