@@ -81,9 +81,12 @@
 [![Atul Kamble's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=atulkamble&theme=react-dark)](https://github.com/atulkamble/github-readme-activity-graph)<br />  
 
 ## Business:
-- :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
+<p align="right">- :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
 - :email: atul_kamble@hotmail.com
-- 📱 +919028288166
+- 📱 +919028288166</p>
+
+
+
 
 
 <details>
