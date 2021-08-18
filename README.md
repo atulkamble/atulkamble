@@ -45,6 +45,7 @@
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/terraform.png" alt="Terraform" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/linux.svg" alt="Linux" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/bash.svg" alt="Bash" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/powershell.png" alt="Powershell" width="50" height="50"/>  
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/git.svg" alt="Git" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/github.png" alt="GitHub" width="50" height="50"/>  
 </p>
