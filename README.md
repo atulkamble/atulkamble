@@ -1,5 +1,7 @@
 <!-- Atul Kamble | GitHub Profile -->
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> This is Atul.
+# Hi there <img src="img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="28px" alt="hi"> This is Atul.
+<h3 align="center">A passionate Azure cloud Solutions Architect.</h3>
+
 >  **Founder, 💻☁️ Cloud Architect & CEO [@Cloudnautic](http://thecloudnautic.com).** <br />
 >  **Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.**
 <br />
