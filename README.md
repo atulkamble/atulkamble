@@ -59,10 +59,6 @@
 * [Exam AZ-303: Microsoft Azure Architect Technologies - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
 * [Exam AZ-304: Microsoft Azure Architect Design - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
 
-
-## 🏆 Profile Trophies:
-<p align="center"> <a href="https://github.com/atulkamble/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulkamble&theme=darkhub" alt="atulkamble" /></a></p>
-
 ## 👨‍💻 Most Used Languages:
 <p align="center">
 <a href="https://github.com/atulkamble/atulkamble">
