@@ -5,8 +5,9 @@
 <summary>  
 >  **Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com).** <br />
 >  **Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.**
-<br />
 <summary>  
+<br />
+
 <p align="center">
 <a href="https://github.com/atulkamble"><img src="https://komarev.com/ghpvc/?username=atulkamble&color=007ec6&style=flat-square" alt="AtulKamble"></a>
 <a href="https://discord.gg/DY7PFDEW"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
