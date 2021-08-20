@@ -32,7 +32,6 @@
   <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>
 </p>
 
-## 🧰 Tools & Technologies:
 - 📫 Reach me out!: atul_kamble@hotmail.com
 - 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
 - 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
@@ -43,7 +42,8 @@
 - 😄 I love to work with PowerShell, IAC, ARM Template, Azure Functions.
 - ⚡ Fun fact: My followers are more Sucessful than me.
 - <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>
-</details>ologies:
+
+## 🧰 Tools & Technologies:
 <p align="center">
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/aws.svg" alt="AWS" width="50" height="50"/> 
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/azure.svg" alt="Azure" width="50" height="50"/>
