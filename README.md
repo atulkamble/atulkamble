@@ -2,9 +2,11 @@
 <h1 align="center"> Hi there <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="28px" alt="hi"> This is Atul.</h1>
 <h3 align="center">A passionate Azure Cloud Solutions Architect.</h3>
 
+<!--  
 **Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com).** <br />
 **Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.**
 <br />
+-->
 
 <p align="center">
 <a href="https://github.com/atulkamble"><img src="https://komarev.com/ghpvc/?username=atulkamble&color=007ec6&style=flat-square" alt="AtulKamble"></a>
@@ -91,7 +93,7 @@
 
 <details>
 </summary>
-Cloudnautic is registered consultant, member of AWS Partner Network, Microsoft Partner Network & Google Cloud Partner Advantage. From designing workloads, to handling management, governance compliance & cost, our IT Experts, Cloud Consultants can help you optimize your operations & map out your next steps towards business growth with adaptation of recent technologies.Cloudnautic helps Organisations to align IT with their business goals.
+Cloudnautic is registered c-->onsultant, member of AWS Partner Network, Microsoft Partner Network & Google Cloud Partner Advantage. From designing workloads, to handling management, governance compliance & cost, our IT Experts, Cloud Consultants can help you optimize your operations & map out your next steps towards business growth with adaptation of recent technologies.Cloudnautic helps Organisations to align IT with their business goals.
 
 [Atul Kamble](https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w/about)
 [Cloudnautic](https://www.youtube.com/channel/UC7bZ6MWDdX9iTlcVejtMAeQ)
