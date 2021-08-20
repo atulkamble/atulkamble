@@ -77,7 +77,7 @@
 
 ## 📈 Github Streak Stats:
 <p align="center"><a href="https://github.com/atulkamble">
-  <img align="center" src="https://github-readme-streak-￼stats.herokuapp.com/?user=atulkamble&theme=dark" alt="Atul Kamble's GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulkamble&theme=dark" alt="Atul Kamble's GitHub Streak Stats" />
 </a></p>
 
 ## 📈 Github Activity Graph:
