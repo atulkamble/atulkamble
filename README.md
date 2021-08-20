@@ -2,6 +2,13 @@
 <h1 align="center"> Hi there <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="28px" alt="hi"> This is Atul.</h1>
 <h3 align="center">A passionate Azure Cloud Solutions Architect.</h3>
 
+<details>
+<summary>📊 Github Stats</summary>
+<p **Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com).** <br />
+**Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.** />
+</details>
+
+
 **Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com).** <br />
 **Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.**
 <br />
