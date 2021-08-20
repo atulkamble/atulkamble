@@ -1,6 +1,7 @@
 <!-- Atul Kamble | GitHub Profile -->
 <h1 align="center"> Hi there <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="28px" alt="hi"> This is Atul.</h1>
 <h3 align="center">A passionate Azure Cloud Solutions Architect.</h3>
+
 **Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com).** <br />
 **Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.**
 <br />
@@ -56,7 +57,7 @@
 </a></p> 
 
 ## 📚 Latest Blog Articles 
-- [Terraform-Commands-Cheatsheet](https://atuljkamble.medium.com/terraform-commands-cheatsheet-d64b8e8ab35)
+- [Terraform-Commands-Cheatsheet](https://atuljkam>  ble.medium.com/terraform-commands-cheatsheet-d64b8e8ab35)
 - [Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam Study Notes](https://atulkamble.github.io/AviatrixACE/)
 - [Last Hour Study Notes| AZ-900 Exam (Updated Sept 2020)](https://atuljkamble.medium.com/last-hour-study-az-900-exam-42fdffec558f)
 - [AZ-900 | Study Notes](https://atuljkamble.medium.com/az-900-study-notes-233f120a075c)
