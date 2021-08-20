@@ -55,7 +55,7 @@
 </a></p> 
 
 ## 📚 Latest Blog Articles 
-- [Terraform-Commands-Cheatsheet](https://atuljkam>  ble.medium.com/terraform-commands-cheatsheet-d64b8e8ab35)
+- [Terraform-Commands-Cheatsheet](https://atul-kamble.medium.com/terraform-commands-cheatsheet-d64b8e8ab35)
 - [Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam Study Notes](https://atulkamble.github.io/AviatrixACE/)
 - [Last Hour Study Notes| AZ-900 Exam (Updated Sept 2020)](https://atuljkamble.medium.com/last-hour-study-az-900-exam-42fdffec558f)
 - [AZ-900 | Study Notes](https://atuljkamble.medium.com/az-900-study-notes-233f120a075c)
@@ -93,7 +93,7 @@
 19
 Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India. />
 About Cloudnautic
-</summary>
+</summary>19
 Cloudnautic is registered consultant, member of AWS Partner Network, Microsoft Partner Network & Google Cloud Partner Advantage. From designing workloads, to handling management, governance compliance & cost, our IT Experts, Cloud Consultants can help you optimize your operations & map out your next steps towards business growth with adaptation of recent technologies.Cloudnautic helps Organisations to align IT with their business goals.
 
 [Atul Kamble](https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w/about)
