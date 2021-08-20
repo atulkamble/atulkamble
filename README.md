@@ -32,8 +32,7 @@
   <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>
 </p>
 
-## 🧰 Tools & Techn<details>
-<summary>- 📫 Reach me out!: atul_kamble@hotmail.com</summary>
+## 🧰 Tools & Technologies:
 - 📫 Reach me out!: atul_kamble@hotmail.com
 - 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
 - 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
