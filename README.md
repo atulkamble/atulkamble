@@ -89,11 +89,7 @@
 - 📱 +919028288166
 
 <details>
-<summary><p Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com). <br />
-19
-Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India. />
-About Cloudnautic
-</summary>19
+</summary>
 Cloudnautic is registered consultant, member of AWS Partner Network, Microsoft Partner Network & Google Cloud Partner Advantage. From designing workloads, to handling management, governance compliance & cost, our IT Experts, Cloud Consultants can help you optimize your operations & map out your next steps towards business growth with adaptation of recent technologies.Cloudnautic helps Organisations to align IT with their business goals.
 
 [Atul Kamble](https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w/about)
