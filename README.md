@@ -2,13 +2,6 @@
 <h1 align="center"> Hi there <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="28px" alt="hi"> This is Atul.</h1>
 <h3 align="center">A passionate Azure Cloud Solutions Architect.</h3>
 
-<details>
-<summary>📊 Github Stats</summary>
-<p Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com). <br />
-Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India. />
-</details>
-
-
 **Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com).** <br />
 **Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.**
 <br />
@@ -20,6 +13,19 @@ Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](h
 </p>
 
 
+<details>
+<summary>- 📫 Reach me out!: atul_kamble@hotmail.com</summary>
+- 📫 Reach me out!: atul_kamble@hotmail.com
+- 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
+- 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
+- 🤔 I’m looking for help with finding new opportunities.
+- 💬 Ask me about: AWS, Azure, K8s, Terraform
+- 🔭 I also try to be active here on GitHub! I got some instantly share codes, notes, snippets | [Gists](https://gist.github.com/atulkamble) for you as well!
+- 💬 See my blog post on [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com)
+- 😄 I love to work with PowerShell, IAC, ARM Template, Azure Functions.
+- ⚡ Fun fact: My followers are more Sucessful than me.
+- <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>
+</details>
 
 - 📫 Reach me out!: atul_kamble@hotmail.com
 - 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
@@ -75,7 +81,9 @@ Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](h
 
 ## 👨‍💻 Most Used Languages:
 <p align="center">
-<a href="https://github.com/atulkamble/atulkamble">
+<a href="https://github.com/atulkamble/atulkamble"><p Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com). <br />
+19
+Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India. />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a></p>
 
@@ -100,7 +108,9 @@ Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](h
 - 📱 +919028288166
 
 <details>
-<summary>
+<summary><p Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com). <br />
+19
+Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India. />
 About Cloudnautic
 </summary>
 Cloudnautic is registered consultant, member of AWS Partner Network, Microsoft Partner Network & Google Cloud Partner Advantage. From designing workloads, to handling management, governance compliance & cost, our IT Experts, Cloud Consultants can help you optimize your operations & map out your next steps towards business growth with adaptation of recent technologies.Cloudnautic helps Organisations to align IT with their business goals.
