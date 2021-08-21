@@ -20,7 +20,7 @@
 - 🤔 I’m looking for help with finding new opportunities.
 - 💬 Ask me about: AWS, Azure, K8s, Terraform
 - 🔭 I also try to be active here on GitHub! I got some instantly share codes, notes, snippets | [Gists](https://gist.github.com/atulkamble) for you as well!
-- 💬 See my blog post on [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com)
+- 💬 See my blog post on [Ghost](https://atulkamble.ghost.io/) | [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com)
 - 😄 I love to work with PowerShell, IAC, ARM Template, Azure Functions.
 - ⚡ Fun fact: My followers are more Sucessful than me.
 - <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>
@@ -95,7 +95,7 @@
 <details>
 </summary>
 Cloudnautic is registered c-->onsultant, member of AWS Partner Network, Microsoft Partner Network & Google Cloud Partner Advantage. From designing workloads, to handling management, governance compliance & cost, our IT Experts, Cloud Consultants can help you optimize your operations & map out your next steps towards business growth with adaptation of recent technologies.Cloudnautic helps Organisations to align IT with their business goals.
-
+https://atulkamble.ghost.io/
 [Atul Kamble](https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w/about)
 [Cloudnautic](https://www.youtube.com/channel/UC7bZ6MWDdX9iTlcVejtMAeQ)
 
