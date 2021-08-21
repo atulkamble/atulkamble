@@ -56,6 +56,7 @@
 </a></p> 
 
 ## 📚 Latest Blog Articles 
+- [Azure CLI Commands](https://atulkamble.ghost.io/azure-cli-commands)
 - [Terraform-Commands-Cheatsheet](https://atul-kamble.medium.com/terraform-commands-cheatsheet-d64b8e8ab35)
 - [Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam Study Notes](https://atulkamble.github.io/AviatrixACE/)
 - [Last Hour Study Notes| AZ-900 Exam (Updated Sept 2020)](https://atuljkamble.medium.com/last-hour-study-az-900-exam-42fdffec558f)
