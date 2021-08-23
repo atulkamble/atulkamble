@@ -99,8 +99,4 @@ https://atulkamble.ghost.io/
 [Atul Kamble](https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w/about)
 [Cloudnautic](https://www.youtube.com/channel/UC7bZ6MWDdX9iTlcVejtMAeQ)
 
-
-
-#atulkamble #cloudnautic #pune #cloud #opensource #cloudcomputing #aws #azure #gcp #amazonwebservices #microsoftazure #googlecloudplatform #kubernetes #terraform #devops #IT #machinelearning #datascience #ai #artificialintelligence #bigdada #cloudera #walchandcollegeofengineering #wce #governmentcollegeofengineeringandresearch #gcoeara #puneuniversity #shivajiuniversity #unipune #unishivaji 
-
 </>🔍[@atulkamble](https://github.com/atulkamble)  | © 2021
