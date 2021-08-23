@@ -18,7 +18,7 @@
 - 🌱 I’m looking for help with Spreading the Cloud Knowledge to fellow learners.
 - 👯 I’m looking to collaborate on sharing knowledge and providing cloud solutions.
 - 🤔 I’m looking for help with finding new opportunities.
-- 💬 Ask me about: AWS, Azure, K8s, Terraform
+- 💬 Ask me about: Azure, K8s, Terraform, ARM Templates.
 - 🔭 I also try to be active here on GitHub! I got some instantly share codes, notes, snippets | [Gists](https://gist.github.com/atulkamble) for you as well!
 - 💬 See my blog post on [atulkamble.ghost.io](https://atulkamble.ghost.io) <!-- [Ghost](https://atulkamble.ghost.io/) | [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com) -->
 - 😄 I love to work with PowerShell, IAC, ARM Template, Azure Functions.
