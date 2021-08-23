@@ -99,4 +99,4 @@ Cloudnautic is registered consultant, member of AWS Partner Network, Microsoft P
 [Atul Kamble](https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w/about)
 [Cloudnautic](https://www.youtube.com/channel/UC7bZ6MWDdX9iTlcVejtMAeQ)
 
-</>🔍[@atulkamble](https://github.com/atulkamble)  | © 2021
+🔍[@atulkamble](https://github.com/atulkamble)  | © 2021
