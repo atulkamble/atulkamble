@@ -15,7 +15,7 @@
 </p>
 
 - 📫 Reach me out!: atul_kamble@hotmail.com
-- 🌱 I’m looking for help with Expanding Cloud Community, Sharing knowledge to newbies.
+- 🌱 I’m looking for help with [Expanding Cloud Community](https://www.linkedin.com/groups/10488146/), [Sharing knowledge to newbies](https://www.linkedin.com/groups/12456663/).
 - 👯 I’m looking to collaborate on sharing knowledge, work together, providing cloud solutions.
 - 🤔 I’m looking for help with Azure Solutions Architect opportunities.
 - 💬 Ask me about: Azure | Azure Architecting | Azure Administration, Security | DevOps | Azure Certifications.
