@@ -91,8 +91,3 @@
 - :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
 - :email: atul_kamble@hotmail.com
 - 📱 +919028288166
-
-<details>
-</summary>
-[Cloudnautic](https://thecloudnautic.com) is registered consultant, member of AWS Partner Network, Microsoft Partner Network & Google Cloud Partner Advantage. From designing workloads, to handling management, governance compliance & cost, our IT Experts, Cloud Consultants can help you optimize your operations & map out your next steps towards business growth with adaptation of recent technologies.Cloudnautic helps Organisations to align IT with their business goals.
-🔍[@atulkamble](https://github.com/atulkamble)  | © 2021
