@@ -18,7 +18,7 @@
 - 🌱 I’m looking for help with Expanding Cloud Community, Sharing knowledge to newbies.
 - 👯 I’m looking to collaborate on sharing knowledge, work together, providing cloud solutions.
 - 🤔 I’m looking for help with Azure Solutions Architect opportunities.
-- 💬 Ask me about: Azure, Azure Architecting, Azure Certifications.
+- 💬 Ask me about: Azure | Azure Architecting | Azure Administration, Security | DevOps | Azure Certifications.
 - 🔭 I also try to be active here on GitHub! I got some instantly share codes, notes, snippets | [Gists](https://gist.github.com/atulkamble) for you as well!
 - 💬 See my blog post on [atulkamble.ghost.io](https://atulkamble.ghost.io) <!-- [Ghost](https://atulkamble.ghost.io/) | [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com) -->
 - 😄 I love to work with PowerShell, Azure CLI, ARM Templates.
