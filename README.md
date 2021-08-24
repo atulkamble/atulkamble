@@ -2,6 +2,23 @@
 <h1 align="center"> Hi there <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="28px" alt="hi"> This is Atul.</h1>
 <h3 align="center">A passionate Azure Cloud Solutions Architect.</h3>
 
+
+## 🧰 Tools & Technologies:
+<p align="center">
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/azure.png" alt="Azure" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/azure-devops.svg" alt="Azure DevOps" width="50" height="50"/>
+  <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/dotnet-core.svg" alt=".NET Core" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/visual-studio.svg" alt="Visual Studio" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/vscode.svg" alt="Visual Studio Code" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/terraform.png" alt="Terraform" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/linux.svg" alt="Linux" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/bash.svg" alt="Bash" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/powershell.png" alt="Powershell" width="50" height="50"/>  
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/git.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/github.png" alt="GitHub" width="50" height="50"/>  
+</p>
+
 <!--  
 **Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com).** <br />
 **Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.**
@@ -40,21 +57,6 @@
   <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>
 </p>
 
-## 🧰 Tools & Technologies:
-<p align="center">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/azure.png" alt="Azure" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/azure-devops.svg" alt="Azure DevOps" width="50" height="50"/>
-  <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/dotnet-core.svg" alt=".NET Core" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/visual-studio.svg" alt="Visual Studio" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/vscode.svg" alt="Visual Studio Code" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/terraform.png" alt="Terraform" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/linux.svg" alt="Linux" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/bash.svg" alt="Bash" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/powershell.png" alt="Powershell" width="50" height="50"/>  
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/git.svg" alt="Git" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/github.png" alt="GitHub" width="50" height="50"/>  
-</p>
 
 ## 💰 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
 <p align="center"><a href="https://github.com/atulkamble">
