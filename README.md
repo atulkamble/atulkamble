@@ -25,6 +25,12 @@
 - ⚡ Fun fact: My followers are more Sucessful than me.
 - <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>
 
+
+## Business:
+- :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
+- :email: atul_kamble@hotmail.com
+- 📱 +919028288166
+
 ## 🚀 Social:
 <p align="center">
   <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="40" height="40"></a>
@@ -87,7 +93,3 @@
 ## 📈 Github Activity Graph:
 [![Atul Kamble's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=atulkamble&theme=react-dark)](https://github.com/atulkamble/github-readme-activity-graph)<br />  
 
-## Business:
-- :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
-- :email: atul_kamble@hotmail.com
-- 📱 +919028288166
