@@ -44,8 +44,6 @@
 - 💬 See my blog post on [atulkamble.ghost.io](https://atulkamble.ghost.io) <!-- [Ghost](https://atulkamble.ghost.io/) | [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com) -->
 - <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>
 - :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
-- :email: atul_kamble@hotmail.com
-- 📱 +919028288166
 
 ## 💰 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
 <p align="center"><a href="https://github.com/atulkamble">
