@@ -29,13 +29,6 @@
 <a href="https://github.com/atulkamble/atulkamble/blob/main/LICENSE"><img src="https://github.com/atulkamble/atulkamble/blob/main/Shields/github-profile-views-counter.svg?flat-square&logo=appveyor" alt="License"></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="40" height="40"></a>
-  <a href="https://twitter.com/atul_kamble"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/twitter.png" width="40" height="40"></a>
-  <a href="https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/youtube.png" width="40" height="40"></a>
-  <a href="https://www.github.com/in/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/github.png" width="40" height="40"></a>
-  <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>
-</p>
 - 📫 Reach me out!: atul_kamble@hotmail.com
 - 🌱 I’m looking for help with [Expanding Cloud Community](https://www.linkedin.com/groups/10488146/), [Sharing knowledge to newbies](https://www.linkedin.com/groups/12456663/).
 - 👯 I’m looking to collaborate on sharing knowledge, work together, providing cloud solutions.
@@ -90,3 +83,10 @@
 ## 📈 Github Activity Graph:
 [![Atul Kamble's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=atulkamble&theme=react-dark)](https://github.com/atulkamble/github-readme-activity-graph)<br />  
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="40" height="40"></a>
+  <a href="https://twitter.com/atul_kamble"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/twitter.png" width="40" height="40"></a>
+  <a href="https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/youtube.png" width="40" height="40"></a>
+  <a href="https://www.github.com/in/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/github.png" width="40" height="40"></a>
+  <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>
+</p>
