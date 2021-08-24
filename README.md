@@ -17,6 +17,17 @@
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/github.png" alt="GitHub" width="50" height="50"/>  
 </p>
 
+<p align="center"> 
+<a href="https://github.com/atulkamble/atulkamble">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+<a href="https://github.com/atulkamble/atulkamble">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=atulkamble&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Atul Kamble's GitHub Stats" />
+</a>  
+</p>
+
+<a href="https://github.com/atulkamble/atulkamble">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=atulkamble&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Atul Kamble's GitHub Stats" />
+</a></p>
 <!--  
 **Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com).** <br />
 **Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.**
@@ -70,18 +81,6 @@
 * [Exam AZ-303: Microsoft Azure Architect Technologies - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
 * [Exam AZ-304: Microsoft Azure Architect Design - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
 
-## 👨‍💻 Most Used Languages:
-<p align="center"> 
-<a href="https://github.com/atulkamble/atulkamble">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a></p>
-
-## 📈 Github Stats:
-
-<p align="center"> 
-<a href="https://github.com/atulkamble/atulkamble">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=atulkamble&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Atul Kamble's GitHub Stats" />
-</a></p>
 
 ## 📈 Github Streak Stats:
 <p align="center"><a href="https://github.com/atulkamble">
