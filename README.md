@@ -30,7 +30,8 @@
 -->
 
 <p align="center">
-<a href="https://github.com/atulkamble/atulkamble/blob/mhttps://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21ain/LICENSE"><img src="https://github.com/atulkamble/atulkamble/blob/main/Shields/github-profile-views-counter.svg?flat-square&logo=appveyor" alt="License"></a>
+![](https://komarev.com/ghpvc/?username=atulkamble)  
+<a href="https://github.com/atulkamble/atulkamble/blob/mhttps://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21ain/LICENSE"><img src="https://github.com/atulkamble/atulkamble/blob/main/Shields/github-profile-views-count![](https://komarev.com/ghpvc/?username=sdwheeler)er.svg?flat-square&logo=appveyor" alt="License"></a>
 </p>
 
 <p align="center">
