@@ -42,13 +42,9 @@
 - 💬 Ask me about: Azure | Azure Architecting | Azure Administration, Security | DevOps | Azure Certifications.
 - 🔭 I also try to be active here on GitHub! I got some instantly share codes, notes, snippets | [Gists](https://gist.github.com/atulkamble) for you as well!
 - 💬 See my blog post on [atulkamble.ghost.io](https://atulkamble.ghost.io) <!-- [Ghost](https://atulkamble.ghost.io/) | [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com) -->
+- 💰 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
 - :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
 - <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>
-
-## 💰 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
-<p align="center"><a href="https://github.com/atulkamble">
-  <img align="center" src="https://github.com/atulkamble/atulkamble/blob/main/icons/GitHubCover.png" alt="" />
-</a></p> 
 
 ## 📚 Latest Blog Articles 
 - [Azure CLI Commands](https://atulkamble.ghost.io/azure-cli-commands)
@@ -60,6 +56,11 @@
 ## ✨ MSLearn Favorites Learning Paths
 * [Exam AZ-303: Microsoft Azure Architect Technologies - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
 * [Exam AZ-304: Microsoft Azure Architect Design - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
+
+<!-- 
+<p align="center"><a href="https://github.com/atulkamble">
+  <img align="center" src="https://github.com/atulkamble/atulkamble/blob/main/icons/GitHubCover.png" alt="" />
+</a></p> 
 
 ## 👨‍💻 Most Used Languages:
 <p align="center"> 
@@ -75,5 +76,6 @@
 
 ## 📈 Github Activity Graph:
 [![Atul Kamble's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=atulkamble&theme=react-dark)](https://github.com/atulkamble/github-readme-activity-graph)<br />  
+-->
 
 
