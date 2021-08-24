@@ -34,7 +34,7 @@
 <p align="center">
 <a href="https://github.com/atulkamble"><img src="https://komarev.com/ghpvc/?username=atulkamble&color=007ec6&style=flat-square" alt="AtulKamble"></a>
 <a href="https://discord.gg/DwPg2NQk"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
-<a href="https://github.com/atulkamble/atulkamble/blob/main/LICENSE"><img src="https://github.com/atulkamble/atulkamble/blob/main/Shields/github-profile-views-counter.svg?flat-square&logo=appveyor" alt="License"></a>
+<a href="https://github.com/atulkamble/atulkamble/blob/mhttps://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21ain/LICENSE"><img src="https://github.com/atulkamble/atulkamble/blob/main/Shields/github-profile-views-counter.svg?flat-square&logo=appveyor" alt="License"></a>
 </p>
 
 <p align="center">
