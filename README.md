@@ -90,4 +90,4 @@
 ## Business:
 - :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
 - :email: atul_kamble@hotmail.com
-- 📱 [+91 9028288166](<a href="tel:+919028288166"> &nbsp;&nbsp; +91 9028288166</a>)
+- 📱 <a href="tel:+919028288166"> 
