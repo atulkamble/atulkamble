@@ -46,16 +46,7 @@
 - :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
 - <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>
 
-## 📚 Latest Blog Articles 
-- [Azure CLI Commands](https://atulkamble.ghost.io/azure-cli-commands)
-- [Terraform-Commands-Cheatsheet](https://atul-kamble.medium.com/terraform-commands-cheatsheet-d64b8e8ab35)
-- [Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam Study Notes](https://atulkamble.github.io/AviatrixACE/)
-- [Last Hour Study Notes| AZ-900 Exam (Updated Sept 2020)](https://atuljkamble.medium.com/last-hour-study-az-900-exam-42fdffec558f)
-- [AZ-900 | Study Notes](https://atuljkamble.medium.com/az-900-study-notes-233f120a075c)
 
-## ✨ MSLearn Favorites Learning Paths
-* [Exam AZ-303: Microsoft Azure Architect Technologies - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
-* [Exam AZ-304: Microsoft Azure Architect Design - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
 
 <!-- 
 <p align="center"><a href="https://github.com/atulkamble">
@@ -68,6 +59,17 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 </a>  
 </p>
+
+## 📚 Latest Blog Articles 
+- [Azure CLI Commands](https://atulkamble.ghost.io/azure-cli-commands)
+- [Terraform-Commands-Cheatsheet](https://atul-kamble.medium.com/terraform-commands-cheatsheet-d64b8e8ab35)
+- [Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam Study Notes](https://atulkamble.github.io/AviatrixACE/)
+- [Last Hour Study Notes| AZ-900 Exam (Updated Sept 2020)](https://atuljkamble.medium.com/last-hour-study-az-900-exam-42fdffec558f)
+- [AZ-900 | Study Notes](https://atuljkamble.medium.com/az-900-study-notes-233f120a075c)
+
+## ✨ MSLearn Favorites Learning Paths
+* [Exam AZ-303: Microsoft Azure Architect Technologies - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
+* [Exam AZ-304: Microsoft Azure Architect Design - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
 
 ## 📈 Github Streak Stats:
 <p align="center"><a href="https://github.com/atulkamble">
