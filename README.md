@@ -2,8 +2,6 @@
 <h1 align="center"> Hi there <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="28px" alt="hi"> This is Atul.</h1>
 <h3 align="center">A passionate Azure Cloud Solutions Architect.</h3>
 
-
-## 🧰 Tools & Technologies:
 <p align="center">
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/azure.png" alt="Azure" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/azure-devops.svg" alt="Azure DevOps" width="50" height="50"/>
