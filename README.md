@@ -35,6 +35,8 @@
   <a href="https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/youtube.png" width="40" height="40"></a>
   <a href="https://www.github.com/in/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/github.png" width="40" height="40"></a>
   <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>
+  <a href="https://docs.microsoft.com/en-us/users/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>
+  
 </p>
 
 - 📫 Reach me out!: atul_kamble@hotmail.com
