@@ -29,9 +29,8 @@
 <br />
 -->
 
-<p align="center">
 ![](https://komarev.com/ghpvc/?username=sdwheeler)
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="40" height="40"></a>
