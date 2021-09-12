@@ -41,7 +41,7 @@
   <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>  
 </p>
 
-![](https://komarev.com/ghpvc/?username=atulkamble)
+- 📫 ![](https://komarev.com/ghpvc/?username=atulkamble)
 - 📫 Reach me out!: atul_kamble@hotmail.com
 - 🌱 I love to [expanding Cloud Community](https://www.linkedin.com/groups/10488146/) and also to [encourage IT/Cloud newbies](https://www.linkedin.com/groups/12456663/).
 - 💬 Ask me about: Azure | Azure Architecting | Azure Administration, Security | DevOps | Azure Certifications.
