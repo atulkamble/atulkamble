@@ -45,7 +45,7 @@
 - 🌱 I love to [expanding Cloud Community](https://www.linkedin.com/groups/10488146/) and also to [encourage IT/Cloud newbies](https://www.linkedin.com/groups/12456663/).
 - 💬 Ask me about: Azure | Azure Architecting | Azure Administration, Security | DevOps | Azure Certifications.
 - 🔭 I also try to be active here on GitHub! I got some instantly share codes, notes, snippets | [Gists](https://gist.github.com/atulkamble) for you as well!
-- 💡 Subsribe my NewsLetter [](https://www.getrevue.co/profile/atulkamble?via=twitter-profile)
+- 💡 Subsribe [Atul's Cloud NewsLetter](https://www.getrevue.co/profile/atulkamble?via=twitter-profile)
 - 🎯 See my blog post on [Medium](https://atul-kamble.medium.com) <!-- [Ghost](https://atulkamble.ghost.io/) | [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com) -->
 - 💰 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
 - :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
