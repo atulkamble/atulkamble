@@ -24,12 +24,10 @@
 </p>
 
 <!--  
-**Founder & CEO, 💻☁️ [@Cloudnautic](http://thecloudnautic.com).** <br />
+**Founder & CEO, 💻☁️ [@Cloudnautic](http://cloudnautic.in).** <br />
 **Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.**
 <br />
 -->
-
-
 
 
 <p align="center">
