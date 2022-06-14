@@ -52,7 +52,11 @@
 - :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
 - <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>
 
-
+<p align="center"> 
+<a href="https://github.com/atulkamble/atulkamble">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+</a>  
+</p>
 
 <!-- 
 <p align="center"><a href="https://github.com/atulkamble">
