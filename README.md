@@ -4,10 +4,10 @@
 
 <p align="center">
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/azure.png" alt="Azure" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/vscode.svg" alt="Visual Studio Code" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/azure-devops.svg" alt="Azure DevOps" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/dotnet-core.svg" alt=".NET Core" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/visual-studio.svg" alt="Visual Studio" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/vscode.svg" alt="Visual Studio Code" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/terraform.png" alt="Terraform" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logo/linux.svg" alt="Linux" width="50" height="50"/>
