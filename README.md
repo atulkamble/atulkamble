@@ -61,7 +61,7 @@
 </a></p> 
 
 ## 👨‍💻 Most Used Languages:
-<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkamble&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="AtulKamble" width="350"/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkamble&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="AtulKamble" width="350"/></a>
 
 
 <p align="center"> 
