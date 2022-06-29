@@ -52,7 +52,7 @@
 - <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>  
 
 <p align="center"> 
-<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkamble&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="AtulKamble" width="350"/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkamble&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="AtulKamble" width="350"/></a>
 </p>
 
 <!-- 
