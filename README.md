@@ -1,5 +1,5 @@
 <!-- Atul Kamble | GitHub Profile -->
-<h1 align="center"> Hi there <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="35" alt="hi"> 👨‍💻 This is Atul.</h1>
+<h1 align="center"> Hi there <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="35" alt="hi"> This is 👨‍💻 Atul.</h1>
 <h3 align="center">A passionate Azure Cloud Solutions Architect.</h3>
 
 <p align="center">
