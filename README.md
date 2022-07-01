@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure.png" alt="Azure" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure.png" alt="Azure" width="22px"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/vscode.svg" alt="Visual Studio Code" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure-devops.svg" alt="Azure DevOps" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/dotnet-core.svg" alt=".NET Core" width="50" height="50"/>
