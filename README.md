@@ -12,7 +12,7 @@
 src="https://github.com/atulkamble/atulkamble/blob/main/icons/Microsoft-Learn.png" width="22px"></a>
   <a href="https://dev.to/atulkamble"><img    
 src="https://github.com/atulkamble/atulkamble/blob/main/icons/dev.jpg" width="22px"></a>
-  <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="22px"></a>  
+  <a href="https://cloudnautic.in/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="22px"></a>  
 </p>
 
 <p align="center">
