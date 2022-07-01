@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure.png" alt="Azure" width="22px"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure.png" alt="Azure" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/vscode.svg" alt="Visual Studio Code" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure-devops.svg" alt="Azure DevOps" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/dotnet-core.svg" alt=".NET Core" width="50" height="50"/>
@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="40" height="40"></a>
+  <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="22px"></a>
   <a href="https://twitter.com/atul_kamble"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/twitter.png" width="40" height="40"></a>
   <a href="https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/youtube.png" width="40" height="40"></a>
   <a href="https://www.github.com/in/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/github.png" width="40" height="40"></a>
