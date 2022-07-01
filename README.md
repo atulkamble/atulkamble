@@ -9,9 +9,9 @@
   <a href="https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/youtube.png" width="22px"></a>
   <a href="https://www.github.com/in/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/github.png" width="22px"></a>
   <a href="https://docs.microsoft.com/en-us/users/atulkamble/"><img
-src="https://github.com/atulkamble/atulkamble/blob/main/icons/dev.jpg" width="22px"></a>
-  <a href="https://dev.to/atulkamble"><img    
 src="https://github.com/atulkamble/atulkamble/blob/main/icons/Microsoft-Learn.png" width="22px"></a>
+  <a href="https://dev.to/atulkamble"><img    
+src="https://github.com/atulkamble/atulkamble/blob/main/icons/dev.jpg" width="22px"></a>
   <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="22px"></a>  
 </p>
 
