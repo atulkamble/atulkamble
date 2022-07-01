@@ -1,6 +1,6 @@
 <!-- Atul Kamble | GitHub Profile -->
 <h1 align="center"> Hi there, <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="35" alt="hi"> this is 👨‍💻 Atul.</h1>
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 <h3 align="center">A passionate Azure Cloud Solutions Architect.</h3>
 
 <p align="center">
