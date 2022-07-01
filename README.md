@@ -1,7 +1,19 @@
 <!-- Atul Kamble | GitHub Profile -->
 <h1 align="center"> Hi there, <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="35" alt="hi"> this is 👨‍💻 Atul.</h1>
+
 <h3 align="center">A passionate Azure Cloud Solutions Architect.</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="22px"></a>
+  <a href="https://twitter.com/atul_kamble"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/twitter.png" width="22px"></a>
+  <a href="https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/youtube.png" width="22px"></a>
+  <a href="https://www.github.com/in/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/github.png" width="22px"></a>
+  <a href="https://docs.microsoft.com/en-us/users/atulkamble/"><img
+src="https://github.com/atulkamble/atulkamble/blob/main/icons/dev.jpg" width="22px"></a>
+  <a href="https://dev.to/atulkamble"><img    
+src="https://github.com/atulkamble/atulkamble/blob/main/icons/Microsoft-Learn.png" width="22px"></a>
+  <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="22px"></a>  
+</p>
 
 <p align="center">
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure.png" alt="Azure" width="50" height="50"/>
@@ -29,16 +41,6 @@
 **Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.**
 <br />
 -->
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="40" height="40"></a>
-  <a href="https://twitter.com/atul_kamble"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/twitter.png" width="40" height="40"></a>
-  <a href="https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/youtube.png" width="40" height="40"></a>
-  <a href="https://www.github.com/in/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/github.png" width="40" height="40"></a>
-  <a href="https://docs.microsoft.com/en-us/users/atulkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/Microsoft-Learn.png" width="40" height="40"></a>
-  <a href="https://thecloudnautic.com/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/cloudnautic.jpg" width="40" height="40"></a>  
-</p>
 
 - 📫 Reach me out!: atul_kamble@hotmail.com
 - 🌱 I love to [connect with IT/Cloud Tech Experts](https://www.linkedin.com/in/atuljkamble) and also to [encourage IT/Cloud newbies](https://www.linkedin.com/groups/12456663/).
