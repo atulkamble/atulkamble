@@ -1,7 +1,7 @@
 <!-- Atul Kamble | GitHub Profile -->
 <h1 align="center"> Hi there, <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="35" alt="hi"> this is 👨‍💻 Atul.</h1>
 <h3 align="center">A passionate Azure Cloud Solutions Architect.</h3>
-
+-------------------------------------------------------------------
 <p align="center">
   <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="22px"></a>
   <a href="https://twitter.com/atul_kamble"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/twitter.png" width="22px"></a>
