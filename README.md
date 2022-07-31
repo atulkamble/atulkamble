@@ -16,6 +16,7 @@ src="https://github.com/atulkamble/atulkamble/blob/main/icons/dev.jpg" width="22
 </p>
 
 <p align="center">
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/AWS.svg" alt="AWS" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure.png" alt="Azure" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/vscode.svg" alt="Visual Studio Code" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure-devops.svg" alt="Azure DevOps" width="50" height="50"/>
