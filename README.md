@@ -44,7 +44,7 @@ src="https://github.com/atulkamble/atulkamble/blob/main/icons/dev.jpg" width="22
 -->
 
 - 📫 Reach me out!: atul_kamble@hotmail.com
-- 🌱 I love to [connect with IT/Cloud Tech Experts](https://www.linkedin.com/in/atuljkamble) and also to [encourage IT/Cloud newbies](https://www.linkedin.com/groups/12456663/).
+- 🌱 I love to [connect with IT/Cloud Tech Experts](https://www.linkedin.com/in/atuljkamble) and also to [encourage Cloud Practitioners](https://www.linkedin.com/groups/12456663/).
 - 💬 Ask me about: Azure | Azure Architecting | Azure Administration, Security | DevOps | Azure Certifications.
 - 🔭 I also try to be active here on GitHub! I got some instantly share codes, notes, snippets | [Gists](https://gist.github.com/atulkamble) for you as well!
 - 💡 Subsribe [Atul's Cloud NewsLetter](https://www.getrevue.co/profile/atulkamble?via=twitter-profile)
