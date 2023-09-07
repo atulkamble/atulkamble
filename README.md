@@ -59,8 +59,6 @@ src="https://github.com/atulkamble/atulkamble/blob/main/icons/dev.jpg" width="22
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkamble&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="AtulKamble" width="350"/></a>
 </p>
 
-[![atulkamble's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- 
 <p align="center"><a href="https://github.com/atulkamble">
   <img align="center" src="https://github.com/atulkamble/atulkamble/blob/main/icons/GitHubCover.png" alt="" />
