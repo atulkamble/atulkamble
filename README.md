@@ -56,8 +56,10 @@ src="https://github.com/atulkamble/atulkamble/blob/main/icons/dev.jpg" width="22
 - <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AtulKamble">📕<span style="margin-left:5px;font-size:24px !important;"> Buy me a Book</span></a>  
 
 <p align="center"> 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkamble&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="AtulKamble" width="350"/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkamble&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="AtulKamble" width="350"/></a>
 </p>
+
+[![atulkamble's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 <p align="center"><a href="https://github.com/atulkamble">
