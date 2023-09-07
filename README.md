@@ -65,8 +65,9 @@ src="https://github.com/atulkamble/atulkamble/blob/main/icons/dev.jpg" width="22
 </a></p> 
 
 ## 👨‍💻 Most Used Languages:
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkamble&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="AtulKamble" width="350"/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="AtulKamble" width="350"/></a>
 
+[![atulkamble's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
 <a href="https://github.com/atulkamble/atulkamble">
