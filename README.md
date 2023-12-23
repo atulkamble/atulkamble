@@ -1,6 +1,5 @@
 <!-- Atul Kamble | GitHub Profile -->
 <h1 align="center"> Hi there, <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="35" alt="hi"> this is 👨‍💻 Atul.</h1>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/gif/line.gif" width="100%"></a>
 
 <h3 align="center">A passionate Azure Cloud Solutions Architect.</h3>
 
@@ -31,7 +30,7 @@ src="https://github.com/atulkamble/atulkamble/blob/main/icons/dev.jpg" width="22
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/git.svg" alt="Git" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/github.png" alt="GitHub" width="50" height="50"/>  
 </p>
-
+<img src="https://github.com/atulkamble/atulkamble/blob/main/gif/line.gif" width="100%"></a>
 <p align="center"> 
 <a href="https://github.com/atulkamble/atulkamble">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=atulkamble&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Atul Kamble's GitHub Stats" />
