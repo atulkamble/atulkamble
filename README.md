@@ -19,7 +19,7 @@ src="https://github.com/atulkamble/atulkamble/blob/main/icons/dev.jpg" width="22
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/aws.png" alt="AWS" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure.png" alt="Azure" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/docker.svg" alt="Docker" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/docker2.svg" alt="Docker" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/vscode.svg" alt="Visual Studio Code" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure-devops.svg" alt="Azure DevOps" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/dotnet-core.svg" alt=".NET Core" width="50" height="50"/>
