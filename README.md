@@ -20,17 +20,18 @@ src="https://github.com/atulkamble/atulkamble/blob/main/icons/dev.jpg" width="22
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure.png" alt="Azure" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/docker2.svg" alt="Docker" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/terraform.png" alt="Terraform" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/ansible.png" alt="Ansible" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/vscode.svg" alt="Visual Studio Code" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure-devops.svg" alt="Azure DevOps" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/dotnet-core.svg" alt=".NET Core" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/visual-studio.svg" alt="Visual Studio" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/terraform.png" alt="Terraform" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/ansible.png" alt="Ansible" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/git.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/github.png" alt="GitHub" width="50" height="50"/>  
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/linux.svg" alt="Linux" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/bash.svg" alt="Bash" width="50" height="50"/>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/powershell.png" alt="Powershell" width="50" height="50"/>  
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/git.svg" alt="Git" width="50" height="50"/>
-<img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/github.png" alt="GitHub" width="50" height="50"/>  
+
 </p>
 <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/line.gif" width="100%"></a>
 <p align="center"> 
