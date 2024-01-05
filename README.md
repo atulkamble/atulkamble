@@ -47,7 +47,7 @@ src="https://github.com/atulkamble/atulkamble/blob/main/icons/substack2.png" wid
 **Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.**
 <br />
 -->
-my goal is to design and implement scalable, secure, and efficient cloud solutions. I thrive on solving complex problems and leveraging cloud technologies to drive innovation. Here's a glimpse into my expertise and responsibilities:
+My goal is to design and implement scalable, secure, and efficient cloud solutions. I thrive on solving complex problems and leveraging cloud technologies to drive innovation. Here's a glimpse into my expertise and responsibilities:
 ## 🚀 Expertise
 
 | Cloud Platforms          | Container Orchestration     | Infrastructure as Code      |Serverless Computing      |
