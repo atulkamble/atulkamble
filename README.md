@@ -47,13 +47,65 @@ src="https://github.com/atulkamble/atulkamble/blob/main/icons/substack2.png" wid
 **Alumni 🎓 [Pune University](http://www.unipune.ac.in/), [Shivaji University](http://www.unishivaji.ac.in/) | India.**
 <br />
 -->
+my goal is to design and implement scalable, secure, and efficient cloud solutions. I thrive on solving complex problems and leveraging cloud technologies to drive innovation. Here's a glimpse into my expertise and responsibilities:
+## 🚀 Expertise
 
-- 📫 Reach me out!: atul_kamble@hotmail.com
+- **Cloud Platforms:**
+  - ☁️ AWS
+  - ☁️ Azure
+    
+- **Container Orchestration:**
+  - ☸️ Kubernetes
+  - 🚢 Docker
+ 
+- **Infrastructure as Code:**
+  - 🧱 Terraform
+  - 🛠️ CloudFormation
+
+- **Serverless Computing:**
+  - 🚀 AWS Lambda
+  - ⚡ Azure Functions
+
+## 💼 Responsibilities
+
+### Architecting Solutions
+
+- Designing scalable and reliable cloud architectures to meet business requirements.
+- Evaluating and selecting the appropriate cloud services and technologies for specific use cases.
+
+### Infrastructure as Code (IaC)
+
+- Implementing infrastructure automation using tools like Terraform and CloudFormation.
+- Ensuring version control and documentation for infrastructure code.
+
+### Security and Compliance
+
+- Implementing security best practices for cloud environments.
+- Ensuring compliance with industry standards and regulations.
+
+### Cloud Migration
+
+- Planning and executing cloud migration strategies.
+- Optimizing existing applications for cloud-native environments.
+
+### Collaboration
+
+- Collaborating with cross-functional teams including developers, operations, and security teams.
+- Providing technical guidance and mentorship to team members.
+
+## 📚 Blog and Articles
+
+I share insights and best practices on cloud architecture and solutions. Explore my latest articles:
+
+- 🎯 See my blog post on [Medium](https://atul-kamble.medium.com) <!-- [Ghost](https://atulkamble.ghost.io/) | [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com) -->
+  
+
 - 🌱 I love to [connect with IT/Cloud Tech Experts](https://www.linkedin.com/in/atuljkamble) and also to [encourage Cloud Practitioners](https://www.linkedin.com/groups/12456663/).
 - 💬 Ask me about: Azure | Azure Architecting | Azure Administration, Security | DevOps | Azure Certifications.
 - 🔭 I also try to be active here on GitHub! I got some instantly share codes, notes, snippets | [Gists](https://gist.github.com/atulkamble) for you as well!
 - 💡 Subsribe [Atul's Cloud NewsLetter](https://www.getrevue.co/profile/atulkamble?via=twitter-profile)
-- 🎯 See my blog post on [Medium](https://atul-kamble.medium.com) <!-- [Ghost](https://atulkamble.ghost.io/) | [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com) -->
+- 
+- 📫 Reach me out!: atul_kamble@hotmail.com
 - 📺 [Follow atulkamble on Twitch](https://twitch.tv/atulkamble). I stream weekly, usually Friday afternoons (IST).
 - 🏙️ [My GitHub story in 3D 🏙️ 🏙️ 🏙️](https://skyline.github.com/atulkamble/2023)
 - 🥇 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
@@ -91,7 +143,8 @@ src="https://github.com/atulkamble/atulkamble/blob/main/icons/substack2.png" wid
 * [Exam AZ-303: Microsoft Azure Architect Technologies - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
 * [Exam AZ-304: Microsoft Azure Architect Design - Study Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
 
-## 📈 Github Streak Stats:
+
+## 📈 GitHub Stats:
 <p align="center"><a href="https://github.com/atulkamble">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulkamble&theme=dark" alt="Atul Kamble's GitHub Streak Stats" />
 </a></p>
