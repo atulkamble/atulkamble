@@ -84,7 +84,8 @@ My goal is to design and implement scalable, secure, and efficient cloud solutio
 - Collaborating with cross-functional teams including developers, operations, and security teams.
 - Providing technical guidance and mentorship to team members.
 
-  
+<img src="https://github.com/atulkamble/atulkamble/blob/main/gif/line.gif" width="100%"></a>
+
 - 🎯 See my blog post on [Medium](https://atul-kamble.medium.com) <!-- [Ghost](https://atulkamble.ghost.io/) | [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com) -->
 - 🌱 I love to [connect with IT/Cloud Tech Experts](https://www.linkedin.com/in/atuljkamble) and also to [encourage Cloud Practitioners](https://www.linkedin.com/groups/12456663/).
 - 💬 Ask me about: Azure | Azure Architecting | Azure Administration, Security | DevOps | Azure Certifications.
