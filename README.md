@@ -50,21 +50,10 @@ src="https://github.com/atulkamble/atulkamble/blob/main/icons/substack2.png" wid
 my goal is to design and implement scalable, secure, and efficient cloud solutions. I thrive on solving complex problems and leveraging cloud technologies to drive innovation. Here's a glimpse into my expertise and responsibilities:
 ## 🚀 Expertise
 
-- **Cloud Platforms:**
-  - ☁️ AWS
-  - ☁️ Azure
-    
-- **Container Orchestration:**
-  - ☸️ Kubernetes
-  - 🚢 Docker
- 
-- **Infrastructure as Code:**
-  - 🧱 Terraform
-  - 🛠️ CloudFormation
-
-- **Serverless Computing:**
-  - 🚀 AWS Lambda
-  - ⚡ Azure Functions
+| **Cloud Platforms:**         | **Container Orchestration:**     | **Infrastructure as Code:**      | **Serverless Computing:** 
+| ------------- | -------------- | ------------- |
+| ☁️ AWS      | ☸️ Kubernetes      | 🧱 Terraform       |🚀 AWS Lambda |
+| ☁️ Azure    | 🚢 Docker       | 🛠️ CloudFormation        |⚡ Azure Functions |
 
 ## 💼 Responsibilities
 
