@@ -55,6 +55,29 @@ my goal is to design and implement scalable, secure, and efficient cloud solutio
 | ☁️ AWS      | ☸️ Kubernetes      | 🧱 Terraform       |🚀 AWS Lambda |
 | ☁️ Azure    | 🚢 Docker       | 🛠️ CloudFormation        |⚡ Azure Functions |
 
+- **Cloud Platforms:**
+  - ☁️ AWS
+  - ☁️ Azure
+    
+- **Container Orchestration:**
+  - ☸️ Kubernetes
+  - 🚢 Docker
+ 
+- **Infrastructure as Code:**
+  - 🧱 Terraform
+  - 🛠️ CloudFormation
+
+- **Serverless Computing:**
+  - 🚀 AWS Lambda
+  - ⚡ Azure Functions
+
+| Name          | Occupation     | Location      |
+| ------------- | -------------- | ------------- |
+| John Doe      | Developer      | City A        |
+| Jane Smith    | Designer       | City B        |
+| Bob Johnson   | Data Scientist | City C        |
+
+
 ## 💼 Responsibilities
 
 ### Architecting Solutions
