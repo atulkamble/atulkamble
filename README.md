@@ -83,14 +83,7 @@ My goal is to design and implement scalable, secure, and efficient cloud solutio
 
 - Collaborating with cross-functional teams including developers, operations, and security teams.
 - Providing technical guidance and mentorship to team members.
-
-## 📚 Blog and Articles
-
-I share insights and best practices on cloud architecture and solutions. Explore my latest articles:
-
 - 🎯 See my blog post on [Medium](https://atul-kamble.medium.com) <!-- [Ghost](https://atulkamble.ghost.io/) | [DEV.to](https://dev.to/atulkamble) | [Medium](https://atuljkamble.medium.com) -->
-  
-
 - 🌱 I love to [connect with IT/Cloud Tech Experts](https://www.linkedin.com/in/atuljkamble) and also to [encourage Cloud Practitioners](https://www.linkedin.com/groups/12456663/).
 - 💬 Ask me about: Azure | Azure Architecting | Azure Administration, Security | DevOps | Azure Certifications.
 - 🔭 I also try to be active here on GitHub! I got some instantly share codes, notes, snippets | [Gists](https://gist.github.com/atulkamble) for you as well!
@@ -122,7 +115,8 @@ I share insights and best practices on cloud architecture and solutions. Explore
 </a>  
 </p>
 
-## 📚 Latest Blog Articles 
+## 📚 Latest Blog Articles
+I share insights and best practices on cloud architecture and solutions. Explore my latest articles:
 - [Azure CLI Commands](https://atulkamble.ghost.io/azure-cli-commands)
 - [Terraform-Commands-Cheatsheet](https://atul-kamble.medium.com/terraform-commands-cheatsheet-d64b8e8ab35)
 - [Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam Study Notes](https://atulkamble.github.io/AviatrixACE/)
