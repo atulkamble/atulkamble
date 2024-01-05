@@ -104,7 +104,6 @@ I share insights and best practices on cloud architecture and solutions. Explore
 - 💬 Ask me about: Azure | Azure Architecting | Azure Administration, Security | DevOps | Azure Certifications.
 - 🔭 I also try to be active here on GitHub! I got some instantly share codes, notes, snippets | [Gists](https://gist.github.com/atulkamble) for you as well!
 - 💡 Subsribe [Atul's Cloud NewsLetter](https://www.getrevue.co/profile/atulkamble?via=twitter-profile)
-- 
 - 📫 Reach me out!: atul_kamble@hotmail.com
 - 📺 [Follow atulkamble on Twitch](https://twitch.tv/atulkamble). I stream weekly, usually Friday afternoons (IST).
 - 🏙️ [My GitHub story in 3D 🏙️ 🏙️ 🏙️](https://skyline.github.com/atulkamble/2023)
