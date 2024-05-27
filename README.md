@@ -55,7 +55,10 @@ My goal is to design and implement scalable, secure, and efficient cloud solutio
 | ☁️ AWS     | ☸️ Kubernetes      | 🧱 Terraform        |🚀 AWS Lambda |
 | ☁️ Azure    | 🚢 Docker       | 🛠️ CloudFormation        |⚡ Azure Functions |
 
-
+## 🚀 Projects
+[AWS Website-Hosting Project & Codes](https://github.com/atulkamble/AWSWebsiteProject)
+[Azure Website-Hosting Project & Codes](https://github.com/atulkamble/AzureWebsiteProject)
+[DevOps Project & Codes](https://github.com/atulkamble/DevOpsProject)
 
 ## 💼 Responsibilities
 
