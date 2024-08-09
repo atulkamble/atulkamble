@@ -3,8 +3,6 @@
 
 <h3 align="center">A passionate Azure Cloud Solutions Architect.</h3>
 
-Atul J. Kamble is the Founder & CEO of Cloudnautic, specializing in IT transformation and cloud solutions since 2016. He has extensive experience as a Corporate Trainer in AWS, DevOps, Azure, and RHEL with Sevenmentor, Learnomate Technologies, and Ethans Tech. Atul holds dual AWS certifications and five Azure certifications in Cloud Computing. He has also conducted many Practical Cloud-DevOps workshops and mentored students at MIT-WPU, VIT-Pune, and MIT-Alandi. Atul earned his Master of Technology (M. Tech.) in Information Technology from Walchand College of Engineering, Sangli, in 2018 and his Bachelor of Engineering (B. E.) in Computer Engineering from Government College of Engineering and Research, Pune, in 2016. His primary interests are Cloud Computing, DevOps, and Infrastructure.
-
 <p align="center">
   <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="22px"></a>
   <a href="https://twitter.com/atul_kamble"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/twitter.png" width="22px"></a>
