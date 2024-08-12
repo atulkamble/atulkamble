@@ -56,10 +56,25 @@ My goal is to design and implement scalable, secure, and efficient cloud solutio
 | ☁️ Azure    | 🚢 Docker       | 🛠️ CloudFormation        |⚡ Azure Functions |
 
 ## 🚀 Projects
-- [chef-server-setup-amazon-linux-2023](https://github.com/atulkamble/chef-project)
-- [AWS Website-Hosting Project & Codes](https://github.com/atulkamble/AWSWebsiteProject)
-- [Azure Website-Hosting Project & Codes](https://github.com/atulkamble/AzureWebsiteProject)
-- [DevOps Project & Codes](https://github.com/atulkamble/DevOpsProject)
+
+1. [AWS - Website Project using EC2](https://github.com/atulkamble/AWSWebsiteProject)
+2. [AWS - Website Project using EC2, S3](https://github.com/atulkamble/WebsiteProjectAWSEC2S3)
+3. [Azure Website-Hosting Project & Codes](https://github.com/atulkamble/AzureWebsiteProject)
+4. [Load Balancing and Autoscaling Project](https://github.com/atulkamble/Project-ASG-LB)
+5. [Dockerise Python Code](https://github.com/atulkamble/dockerpythonproject)
+6. [EKS Project](https://github.com/atulkamble/k8s-App-EKS)
+7. [Terraform | Webserver Project](https://github.com/atulkamble/terraform-webserver)
+6. [Jenkins Pipeline using Java and Maven](https://github.com/atulkamble/simple-java-maven-app)
+7. [Jenkins Docker Pipeline](https://github.com/atulkamble/jenkins-docker-pipeline)
+8. [Jenkins docker+maven+jenkins Project](https://github.com/atulkamble/jenkins-devops-microservice-leranomate)
+9. [Multibranch pipeline code docker+git+jenkins](https://github.com/atulkamble/Jenkins-Multibranch-Pipeline)
+10. [AWS - Chef Server Project](https://github.com/atulkamble/Basic-Chef)
+11. [Chef-Project-Nginx-NodeJS-MySQL](https://github.com/atulkamble/Chef-Project-Nginx-NodeJS-MySQL)
+12. [ChefWebAppProject](https://github.com/atulkamble/ChefWebAppProject)
+   [chef-project](https://github.com/atulkamble/chef-project)
+13. [chef-server-setup-amazon-linux-2023](https://github.com/atulkamble/chef-project)
+14. [Ansible - Project](https://github.com/atulkamble/ansible-ec2-webservers)
+15. [DevOps Project & Codes](https://github.com/atulkamble/DevOpsProject)
 
 ## 💼 Responsibilities
 
