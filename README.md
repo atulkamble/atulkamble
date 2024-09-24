@@ -60,7 +60,7 @@ My goal is to design and implement scalable, secure, and efficient cloud solutio
 1. [EC2 Web Server Setup with Git](https://github.com/atulkamble/ec2-webserver-git-setup)
 2. [Hosting a Static Website on AWS EC2](https://github.com/atulkamble/aws-ec2-static-website)
 3. [Hosting a Static Website with EC2 and S3](https://github.com/atulkamble/aws-ec2-s3-static-website)
-4. [Basic Static Website Hosting: GitHub Integration and Apache WebServer Setup](https://github.com/atulkamble/azurevm-website-hosting)
+4. [AzureVM Basic Static Website Hosting with GitHub Integration](https://github.com/atulkamble/azurevm-website-hosting)
 5. [Deploy a Full Website on Azure Ubuntu VM](https://github.com/atulkamble/azure-ubuntu-webserver-setup)
 6. [Automated Deployment of Web Servers with Auto Scaling Group and Load Balancer](https://github.com/atulkamble/asg-lb-webserver-automation)
 7. [Dockerizing Python Code](https://github.com/atulkamble/docker-python-app)
