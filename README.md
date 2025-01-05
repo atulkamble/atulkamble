@@ -87,6 +87,11 @@ My goal is to design and implement scalable, secure, and efficient cloud solutio
 28. [Ansible - Project](https://github.com/atulkamble/ansible-ec2-webservers)
 29. [DevOps Project & Codes](https://github.com/atulkamble/DevOpsProject)
 30. [AWS Prometheus Grafana Project](https://github.com/atulkamble/aws-grafana-prometheus-project)
+31. [E-Commerce-Platform-on-Azure](https://github.com/atulkamble/E-Commerce-Azure-Platform)
+32. [Healthcare-Data-Processing-System](https://github.com/atulkamble/Healthcare-Data-Processing-System)
+33. [Multi-Tenant-Blogging-Platform](https://github.com/atulkamble/Multi-Tenant-Blogging-Platform)
+34. [Cloud-based Disaster Recovery Solutions for Enterprises](https://github.com/atulkamble/cloud-dr-solution-enterprises)
+35. [dockerized-python-azure-vm](https://github.com/atulkamble/dockerized-python-azure-vm)
 
 ## 💼 Responsibilities
 
