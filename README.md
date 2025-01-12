@@ -92,6 +92,13 @@ My goal is to design and implement scalable, secure, and efficient cloud solutio
 33. [Multi-Tenant-Blogging-Platform](https://github.com/atulkamble/Multi-Tenant-Blogging-Platform)
 34. [Cloud-based Disaster Recovery Solutions for Enterprises](https://github.com/atulkamble/cloud-dr-solution-enterprises)
 35. [dockerized-python-azure-vm](https://github.com/atulkamble/dockerized-python-azure-vm)
+36. https://github.com/atulkamble/Azure-Logic-Apps
+37. https://github.com/atulkamble/Azure-Functions
+38. https://github.com/atulkamble/Azure-Key-Vault
+39. https://github.com/atulkamble/Azure-Data-Factory
+40. https://github.com/atulkamble/secure-data-cloud
+41. https://github.com/atulkamble/Azure-Firewall
+42. https://github.com/atulkamble/Azure-Event-Hub
 
 ## 💼 Responsibilities
 
