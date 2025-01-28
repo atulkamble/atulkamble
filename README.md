@@ -100,6 +100,7 @@ My goal is to design and implement scalable, secure, and efficient cloud solutio
 41. https://github.com/atulkamble/Azure-Firewall
 42. https://github.com/atulkamble/Azure-Event-Hub
 43. https://github.com/atulkamble/Azure-Migration-Project
+44. [Minikube NGINX Setup](https://github.com/atulkamble/minikube-nginx)
 
 ## 💼 Responsibilities
 
