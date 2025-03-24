@@ -73,35 +73,36 @@ My goal is to design and implement scalable, secure, and efficient cloud solutio
 14. [WebApp Deployment using containers](https://github.com/atulkamble/ecs-webapp-deployment)
 15. [Kubernetes Application Deployment with AWS EKS and ECR](https://github.com/atulkamble/k8s-application-deployment-aws-eks-ecr)
 16. [Terraform | Webserver Project](https://github.com/atulkamble/terraform-webserver)
-17. [Terraform WebApp](https://github.com/atulkamble/myterraformcodes)
-18. [Terraform Codes](https://github.com/atulkamble/myterraformcodes)
-19. [Deploying a Web Server using AWS CloudFormation, cfn-init, and cfn-signal](https://github.com/atulkamble/webserver-cfn-init-signal)
-20. [Jenkins Pipeline using Java and Maven](https://github.com/atulkamble/simple-java-maven-app)
-21. [Jenkins Docker Pipeline](https://github.com/atulkamble/jenkins-docker-pipeline)
-22. [Jenkins docker+maven+jenkins Project](https://github.com/atulkamble/jenkins-devops-microservice-leranomate)
-23. [Multibranch pipeline code docker+git+jenkins](https://github.com/atulkamble/Jenkins-Multibranch-Pipeline)
-24. [AWS - Chef Server Project](https://github.com/atulkamble/Basic-Chef)
-25. [Chef-Project-Nginx-NodeJS-MySQL](https://github.com/atulkamble/Chef-Project-Nginx-NodeJS-MySQL)
-26. [ChefWebAppProject](https://github.com/atulkamble/ChefWebAppProject)
-27. [chef-project](https://github.com/atulkamble/chef-project)
-28. [chef-server-setup-amazon-linux-2023](https://github.com/atulkamble/chef-project)
-29. [Ansible - Project](https://github.com/atulkamble/ansible-ec2-webservers)
-30. [DevOps Project & Codes](https://github.com/atulkamble/DevOpsProject)
-31. [AWS Prometheus Grafana Project](https://github.com/atulkamble/aws-grafana-prometheus-project)
-32. [E-Commerce-Platform-on-Azure](https://github.com/atulkamble/E-Commerce-Azure-Platform)
-33. [Healthcare-Data-Processing-System](https://github.com/atulkamble/Healthcare-Data-Processing-System)
-34. [Multi-Tenant-Blogging-Platform](https://github.com/atulkamble/Multi-Tenant-Blogging-Platform)
-35. [Cloud-based Disaster Recovery Solutions for Enterprises](https://github.com/atulkamble/cloud-dr-solution-enterprises)
-36. [dockerized-python-azure-vm](https://github.com/atulkamble/dockerized-python-azure-vm)
-37. https://github.com/atulkamble/Azure-Logic-Apps
-38. https://github.com/atulkamble/Azure-Functions
-39. https://github.com/atulkamble/Azure-Key-Vault
-40. https://github.com/atulkamble/Azure-Data-Factory
-41. https://github.com/atulkamble/secure-data-cloud
-42. https://github.com/atulkamble/Azure-Firewall
-43. https://github.com/atulkamble/Azure-Event-Hub
-44. https://github.com/atulkamble/Azure-Migration-Project
-45. [Minikube NGINX Setup](https://github.com/atulkamble/minikube-nginx)
+17. [Azure Terraform WebServer Project](https://github.com/atulkamble/Azure-Terraform-Project)
+18. [Terraform WebApp](https://github.com/atulkamble/myterraformcodes)
+19. [Terraform Codes](https://github.com/atulkamble/myterraformcodes)
+20. [Deploying a Web Server using AWS CloudFormation, cfn-init, and cfn-signal](https://github.com/atulkamble/webserver-cfn-init-signal)
+21. [Jenkins Pipeline using Java and Maven](https://github.com/atulkamble/simple-java-maven-app)
+22. [Jenkins Docker Pipeline](https://github.com/atulkamble/jenkins-docker-pipeline)
+23. [Jenkins docker+maven+jenkins Project](https://github.com/atulkamble/jenkins-devops-microservice-leranomate)
+24. [Multibranch pipeline code docker+git+jenkins](https://github.com/atulkamble/Jenkins-Multibranch-Pipeline)
+25. [AWS - Chef Server Project](https://github.com/atulkamble/Basic-Chef)
+26. [Chef-Project-Nginx-NodeJS-MySQL](https://github.com/atulkamble/Chef-Project-Nginx-NodeJS-MySQL)
+27. [ChefWebAppProject](https://github.com/atulkamble/ChefWebAppProject)
+28. [chef-project](https://github.com/atulkamble/chef-project)
+29. [chef-server-setup-amazon-linux-2023](https://github.com/atulkamble/chef-project)
+30. [Ansible - Project](https://github.com/atulkamble/ansible-ec2-webservers)
+31. [DevOps Project & Codes](https://github.com/atulkamble/DevOpsProject)
+32. [AWS Prometheus Grafana Project](https://github.com/atulkamble/aws-grafana-prometheus-project)
+33. [E-Commerce-Platform-on-Azure](https://github.com/atulkamble/E-Commerce-Azure-Platform)
+34. [Healthcare-Data-Processing-System](https://github.com/atulkamble/Healthcare-Data-Processing-System)
+35. [Multi-Tenant-Blogging-Platform](https://github.com/atulkamble/Multi-Tenant-Blogging-Platform)
+36. [Cloud-based Disaster Recovery Solutions for Enterprises](https://github.com/atulkamble/cloud-dr-solution-enterprises)
+37. [dockerized-python-azure-vm](https://github.com/atulkamble/dockerized-python-azure-vm)
+38. https://github.com/atulkamble/Azure-Logic-Apps
+39. https://github.com/atulkamble/Azure-Functions
+40. https://github.com/atulkamble/Azure-Key-Vault
+41. https://github.com/atulkamble/Azure-Data-Factory
+42. https://github.com/atulkamble/secure-data-cloud
+43. https://github.com/atulkamble/Azure-Firewall
+44. https://github.com/atulkamble/Azure-Event-Hub
+45. https://github.com/atulkamble/Azure-Migration-Project
+46. [Minikube NGINX Setup](https://github.com/atulkamble/minikube-nginx)
 
 ## 💼 Responsibilities
 
