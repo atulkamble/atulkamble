@@ -37,7 +37,7 @@
 
 🌟 I architect and automate cloud-native infrastructures on Azure and AWS.<br>
 💡 Founder of <a href="https://cloudnautic.in">Cloudnautic</a> | Corporate Trainer | DevOps Coach<br>
-📍 Based in Pune, India | 🎓 M.Tech in IT
+📍 Based in Pune, India | 🎓 M.Tech in IT, M.B.A (IT Management)
 
 ## 💡 Core Skills
 
@@ -126,18 +126,12 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 ## ✍️ Let's Connect
 
 - 📝 Blogs: [Medium](https://atul-kamble.medium.com) | [Substack](https://atulkamble.substack.com)
-- 🎥 YouTube: [Cloudnautic Channel](https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w)
-- 📧 Contact: atul_kamble@hotmail.com
-- 🖥️ Website: [Cloudnautic.in](https://cloudnautic.in)
+- 🎥 YouTube: [Atul Kamble Channel](https://www.youtube.com/channel/atulkamble)
+- 📧 Contact: atul_kamble@icloud.com
+- 🖥️ Website: [Cloudnautic.in](https://cloudnautic.in), [atulkamble.in](https://atulkamble.in)
 - ☕ [Buy Me a Book](https://www.buymeacoffee.com/AtulKamble)
 - 🥇 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet)
 - :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
-
- [Medium](https://atul-kamble.medium.com) | [Substack](https://atulkamble.substack.com)
-- 🎥 YouTube: [Cloudnautic Channel](https://www.youtube.com/channel/UCozWfiSWpO4JZhMrASYyZ2w)
-- 📧 Contact: atul_kamble@hotmail.com
-- 🖥️ Website: [Cloudnautic.in](https://cloudnautic.in)
-- ☕ [Buy Me a Book](https://www.buymeacoffee.com/AtulKamble)
 
 <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/line.gif" width="100%">
 
