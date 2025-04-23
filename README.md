@@ -126,7 +126,7 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 ## ✍️ Let's Connect
 
 - 📝 Blogs: [Medium](https://atul-kamble.medium.com) | [Substack](https://atulkamble.substack.com)
-- 🎥 YouTube: [Suscribe Atul Kamble](https://www.youtube.com/channel/atulkamble)
+- 🎥 YouTube: [Subscribe | Atul Kamble](https://www.youtube.com/@AtulKamble)
 - 📧 Contact: atul_kamble@icloud.com
 - 🖥️ Website: [www.cloudnautic.in](https://cloudnautic.in), [www.atulkamble.in](https://atulkamble.in)
 - ☕ [Buy Me a Book](https://www.buymeacoffee.com/AtulKamble)
