@@ -41,18 +41,19 @@
 
 ## 💡 Core Skills
 
-- **Cloud Platforms**: Azure, AWS, GCP
-- **IaC**: Terraform, ARM, CloudFormation
-- **Containers & Orchestration**: Docker, Kubernetes, ECS
-- **CI/CD**: Jenkins, GitHub Actions, Azure DevOps
-- **Languages**: Bash, PowerShell, Python
-- **Monitoring**: Grafana, Prometheus, CloudWatch
+- **Cloud Platforms**: AWS (EC2, S3, IAM, VPC, Lambda), Azure (VM, App Services, Functions, AKS), GCP 
+- **Infrastructure as Code (IaC)**: Terraform (multi-cloud), AWS CloudFormation, Azure ARM Templates & Bicep
+- **Containers & Orchestration**: Docker, Kubernetes (EKS, AKS), Amazon ECS & Fargate
+- **CI/CD Pipelines**: Azure DevOps (Repos, Pipelines, Releases), AWS CodePipeline, CodeBuild, GitHub Actions, Jenkins
+- **Scripting & Automation**: Bash, PowerShell, Python (for automation and DevOps tasks)
+- **Monitoring & Logging**: AWS CloudWatch, Azure Monitor, Grafana, Prometheus, ELK Stack (basic)
 
 ## 🔧 Tools & Technologies
 
-| Platforms | Automation | DevOps & Monitoring | IDE & Scripting |
-|----------|------------|---------------------|-----------------|
-| Azure, AWS | Terraform, Ansible | GitHub Actions, Jenkins, Prometheus | VS Code, Bash, PowerShell |
+| Cloud Platforms        | Automation & IaC                    | CI/CD & Monitoring                                        | IDE & Scripting            |
+|------------------------|-------------------------------------|-----------------------------------------------------------|-----------------------------|
+| AWS, Azure             | Terraform, CloudFormation, ARM, Ansible | Azure DevOps, GitHub Actions, Jenkins, CloudWatch, Azure Monitor | VS Code, Bash, PowerShell, Python |
+
 
 ## 📂 Featured Projects
 
