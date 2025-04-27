@@ -65,7 +65,8 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
   ## 🚀 Projects
 
 1.[Git Portfolio Website](https://github.com/atulkamble/personal-portfolio)
-2. [EC2 Web Server Setup with Git](https://github.com/atulkamble/ec2-webserver-git-setup)
+2.[EC2 Web Server Setup with Git](https://github.com/atulkamble/ec2-webserver-git-setup)
+3. [Git To Do App](https://github.com/atulkamble/todo-app)
 3. [Hosting a Static Website on AWS EC2](https://github.com/atulkamble/aws-ec2-static-website)
 4. [Hosting a Static Website with EC2 and S3](https://github.com/atulkamble/aws-ec2-s3-static-website)
 5. [AWS 3 Tier Website](https://github.com/atulkamble/aws-3-tier-website)
