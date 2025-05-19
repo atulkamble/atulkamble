@@ -62,7 +62,7 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 <details>
   <summary>Click to Expand Full Project List</summary>
 
-  ## 🚀 Projects
+## 🚀 Projects
 
 1.[Git Portfolio Website](https://github.com/atulkamble/personal-portfolio)
 2.[EC2 Web Server Setup with Git](https://github.com/atulkamble/ec2-webserver-git-setup)
