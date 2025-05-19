@@ -59,8 +59,7 @@
 
 Explore my complete project list here: [Project Portfolio](https://github.com/atulkamble?tab=repositories)
 
-<details>
-  <summary>Click to Expand Full Project List</summary>
+<details> <summary>🔽 Click to Expand Full Project List</summary>
 
 ## 🚀 Projects
 
