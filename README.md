@@ -130,7 +130,7 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 - 📝 Blogs: [Medium](https://atul-kamble.medium.com) | [Substack](https://atulkamble.substack.com)
 - 🎥 YouTube: [Subscribe | Atul Kamble](https://www.youtube.com/@AtulKamble)
 - 📧 Contact: atul_kamble@icloud.com
-- Social: [bsky:@atulkamble](https://bsky.app/profile/atulkamble.bsky.social), [mastondon@atulkamble](https://hachyderm.io/@atulkamble)
+- Social: [BlueSky:@atulkamble](https://bsky.app/profile/atulkamble.bsky.social), [Mastondon@atulkamble](https://hachyderm.io/@atulkamble)
 - 🖥️ Website: [www.cloudnautic.in](https://cloudnautic.in), [www.atulkamble.in](https://atulkamble.in)
 - ☕ [Buy Me a Book](https://www.buymeacoffee.com/AtulKamble)
 - 🥇 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet) | [Google Developers](https://developers.google.com/profile/u/atulkamble) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/atulkamble/)
