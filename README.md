@@ -128,7 +128,7 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 ## ✍️ Let's Connect
 
 - 📝 Blogs: [Medium](https://atul-kamble.medium.com) | [Substack](https://atulkamble.substack.com)
-- 🎥 YouTube: [Subscribe | Atul Kamble](https://www.youtube.com/@AtulKamble)
+- 🎥 YouTube: [@AtulKamble](https://www.youtube.com/@AtulKamble)
 - 📧 Contact: atul_kamble@icloud.com
 - 🌍 Social: [BlueSky:@atulkamble](https://bsky.app/profile/atulkamble.bsky.social), [Mastondon@atulkamble](https://hachyderm.io/@atulkamble)
 - 🖥️ Website: [www.cloudnautic.in](https://cloudnautic.in), [www.atulkamble.in](https://atulkamble.in)
