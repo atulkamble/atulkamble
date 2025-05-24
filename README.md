@@ -112,6 +112,8 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 46. [Azure Migration Project](https://github.com/atulkamble/Azure-Migration-Project)
 47. [Minikube NGINX Setup](https://github.com/atulkamble/minikube-nginx)
 48. [Node.js Hello World WebApp Pipeline](https://github.com/atulkamble/azure-nodejs-webapp-pipeline)
+49. [Internet Gateway Project](https://github.com/atulkamble/AWS-Internet-Gateway-Project)
+50. [NAT Gateway Project](https://github.com/atulkamble/AWS-NAT-Gateway-Project)
 
 </details>
 
