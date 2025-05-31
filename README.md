@@ -30,7 +30,6 @@
 <p align="center">
   <a href="https://github.com/atulkamble">
     <img src="https://github-readme-stats.vercel.app/api?username=atulkamble&theme=synthwave&count_private=true&show_icons=true" width="500px"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=atulkamble&show_icons=true&theme=tokyonight&hide_border=true" alt="Atul Kamble GitHub Stats"/>
   </a>
 </p>
 
