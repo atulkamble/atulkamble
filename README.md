@@ -137,7 +137,7 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 - 🌍 Social: [BlueSky@atulkamble](https://bsky.app/profile/atulkamble.bsky.social), [Mastondon@atulkamble](https://hachyderm.io/@atulkamble)
 - 🖥️ Website: [www.cloudnautic.in](https://cloudnautic.in), [www.atulkamble.in](https://atulkamble.in)
 - ☕ [Buy Me a Book](https://www.buymeacoffee.com/AtulKamble)
-- 🥇 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljaywantkamble/wallet) | [Google Developers](https://developers.google.com/profile/u/atulkamble) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/atulkamble/)
+- 🥇 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljkamble/wallet) | [Google Developers](https://developers.google.com/profile/u/atulkamble) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/atulkamble/)
 - :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
 
 <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/line.gif" width="100%">
