@@ -1,0 +1,2 @@
+```
+I’m Atul Kamble, a Cloud Solutions Architect with a strong focus on designing scalable, secure, and cost-effective infrastructure solutions. I specialize in cloud-native technologies, DevOps practices, and container orchestration. I’m passionate about continuous learning, mentoring upcoming tech talent, and simplifying complex architectures to deliver impactful business outcomes. Beyond cloud engineering, I enjoy creating technical content and contributing to community-driven knowledge sharing.```
