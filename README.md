@@ -117,7 +117,9 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 51. [Elastic Beanstalk NodeJS](https://github.com/atulkamble/elastic-beanstalk-nodejs)  
 52. [AWS VPC CloudFormation Project](https://github.com/atulkamble/aws-vpc-cloudformation-project)  
 53. [AWS VPC Peering Project](https://github.com/atulkamble/AWS-VPC-Peering-Project)
-54. [https://github.com/atulkamble/docker-nodejs-webapp](docker-nodejs-webapp)
+
+## New Projects
+1. [https://github.com/atulkamble/docker-nodejs-webapp](docker-nodejs-webapp)
 
 </details>
 
