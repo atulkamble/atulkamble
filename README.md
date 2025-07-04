@@ -119,7 +119,8 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 53. [AWS VPC Peering Project](https://github.com/atulkamble/AWS-VPC-Peering-Project)
 
 ## New Projects
-1. [https://github.com/atulkamble/docker-nodejs-webapp](docker-nodejs-webapp)
+1. [docker-nodejs-webapp](https://github.com/atulkamble/docker-nodejs-webapp)
+2. [docker-network-project](https://github.com/atulkamble/docker-network-project)
 
 </details>
 
