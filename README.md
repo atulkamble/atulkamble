@@ -121,6 +121,7 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 ## New Projects
 1. [docker-nodejs-webapp](https://github.com/atulkamble/docker-nodejs-webapp)
 2. [docker-network-project](https://github.com/atulkamble/docker-network-project)
+3. [docker-nginx-persistence-volume](https://github.com/atulkamble/docker-nginx-persistence-volume)
 
 </details>
 
