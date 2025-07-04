@@ -119,9 +119,11 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 53. [AWS VPC Peering Project](https://github.com/atulkamble/AWS-VPC-Peering-Project)
 
 ## New Projects
-1. [docker-nodejs-webapp](https://github.com/atulkamble/docker-nodejs-webapp)
-2. [docker-network-project](https://github.com/atulkamble/docker-network-project)
-3. [docker-nginx-persistence-volume](https://github.com/atulkamble/docker-nginx-persistence-volume)
+1. [linux-website](https://github.com/atulkamble/linux-website)
+2. [linux-calculator-project](https://github.com/atulkamble/linux-calculator-project)
+3. [docker-nodejs-webapp](https://github.com/atulkamble/docker-nodejs-webapp)
+4. [docker-network-project](https://github.com/atulkamble/docker-network-project)
+5. [docker-nginx-persistence-volume](https://github.com/atulkamble/docker-nginx-persistence-volume)
 
 </details>
 
