@@ -124,6 +124,9 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 3. [docker-nodejs-webapp](https://github.com/atulkamble/docker-nodejs-webapp)
 4. [docker-network-project](https://github.com/atulkamble/docker-network-project)
 5. [docker-nginx-persistence-volume](https://github.com/atulkamble/docker-nginx-persistence-volume)
+6. [Ruby](https://github.com/atulkamble/ruby)
+7. [Basic Chef Project](https://github.com/atulkamble/chef-project)
+
 
 </details>
 
