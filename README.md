@@ -122,11 +122,13 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 1. [linux-website](https://github.com/atulkamble/linux-website)
 2. [linux-calculator-project](https://github.com/atulkamble/linux-calculator-project)
 3. [ec2-apache-mysql-webserver-project](https://github.com/atulkamble/ec2-apache-mysql-webserver-project)
-4. [docker-nodejs-webapp](https://github.com/atulkamble/docker-nodejs-webapp)
-5. [docker-network-project](https://github.com/atulkamble/docker-network-project)
-6. [docker-nginx-persistence-volume](https://github.com/atulkamble/docker-nginx-persistence-volume)
-7. [Ruby](https://github.com/atulkamble/ruby)
-8. [Basic Chef Project](https://github.com/atulkamble/chef-project)
+4. [aws-ec2-s3-static-website](https://github.com/atulkamble/aws-ec2-s3-static-website)
+5. [ec2-apache-mysql-webserver-project](https://github.com/atulkamble/ec2-apache-mysql-webserver-project)
+6. [docker-nodejs-webapp](https://github.com/atulkamble/docker-nodejs-webapp)
+7. [docker-network-project](https://github.com/atulkamble/docker-network-project)
+8. [docker-nginx-persistence-volume](https://github.com/atulkamble/docker-nginx-persistence-volume)
+9. [Ruby](https://github.com/atulkamble/ruby)
+10. [Basic Chef Project](https://github.com/atulkamble/chef-project)
 
 
 </details>
