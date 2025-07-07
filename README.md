@@ -121,14 +121,16 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 ## New Projects
 1. [linux-website](https://github.com/atulkamble/linux-website)
 2. [linux-calculator-project](https://github.com/atulkamble/linux-calculator-project)
-3. [ec2-apache-mysql-webserver-project](https://github.com/atulkamble/ec2-apache-mysql-webserver-project)
-4. [aws-ec2-s3-static-website](https://github.com/atulkamble/aws-ec2-s3-static-website)
+3. [Pong-Game](https://github.com/atulkamble/pong-game)
+4. [Snake-Game](https://github.com/atulkamble/snake-game)
 5. [ec2-apache-mysql-webserver-project](https://github.com/atulkamble/ec2-apache-mysql-webserver-project)
-6. [docker-nodejs-webapp](https://github.com/atulkamble/docker-nodejs-webapp)
-7. [docker-network-project](https://github.com/atulkamble/docker-network-project)
-8. [docker-nginx-persistence-volume](https://github.com/atulkamble/docker-nginx-persistence-volume)
-9. [Ruby](https://github.com/atulkamble/ruby)
-10. [Basic Chef Project](https://github.com/atulkamble/chef-project)
+6. [aws-ec2-s3-static-website](https://github.com/atulkamble/aws-ec2-s3-static-website)
+7. [ec2-apache-mysql-webserver-project](https://github.com/atulkamble/ec2-apache-mysql-webserver-project)
+8. [docker-nodejs-webapp](https://github.com/atulkamble/docker-nodejs-webapp)
+9. [docker-network-project](https://github.com/atulkamble/docker-network-project)
+10. [docker-nginx-persistence-volume](https://github.com/atulkamble/docker-nginx-persistence-volume)
+11. [Ruby](https://github.com/atulkamble/ruby)
+12. [Basic Chef Project](https://github.com/atulkamble/chef-project)
 
 
 </details>
