@@ -1,7 +1,7 @@
 <!-- Atul Kamble | GitHub Profile -->
 <h1 align="center"> Hi there, <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="35" alt="hi"> I'm 👨‍💻 <strong>Atul Kamble</strong>.</h1>
 
-<h3 align="center">☁️ 7x Microsoft Certified: Azure Solutions Architect Expert | 2x AWS Certified Solutions Architect - Associate | Founder & CEO @Cloudnautic | DevOps & IaC Specialist | Corporate & Technical Trainer | Speaker | Mentor | Contributor | Author | Reviewer</h3>
+<h3 align="center">☁️ 7x Microsoft Certified: Azure Solutions Architect Expert | 2x AWS Certified Solutions Architect - Associate | Founder & CEO @Cloudnautic | DevOps & IaC Specialist | Corporate & Technical Trainer | Engineer | Leader | Mentor | Speaker | Contributor | Author | Reviewer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="22px"></a>
