@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/atulkamble-black?style=for-the-badge&logo=github" />
 </a>
   <a href="mailto:atul_kamble@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail" />
 </a>
 <br />
 <h3 align="center">☁️ 7x Microsoft Certified: Azure Solutions Architect Expert | 2x AWS Certified Solutions Architect - Associate | Founder & CEO @Cloudnautic | DevOps & IaC Specialist | Corporate & Technical Trainer | Engineer | Leader | Mentor | Speaker | Contributor | Author | Reviewer</h3>
