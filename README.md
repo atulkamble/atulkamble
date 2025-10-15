@@ -169,5 +169,12 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 
 <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/line.gif" width="100%">
 
-<p align="center">🚀 Master Cloud. Automate DevOps. Build Your Future with AWS & Azure! ☁️🔧</p>
+<div align="center" style="background-color:#f0f9ff; padding:20px;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=160&section=footer"/>
+
+<h3 align="center"><strong>🚀 Master Cloud. Automate DevOps. Build Your Future with AWS & Azure! ☁️🔧</strong></h3>
+
+</div>
+
 
