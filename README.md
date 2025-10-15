@@ -1,6 +1,6 @@
 <!-- Atul Kamble | GitHub Profile -->
 <div align="center" style="background-color:#f0f9ff; padding:20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Kiran%20Rakh&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Atul%20Kamble&fontSize=30&fontColor=ffffff"/>
 <h1 align="center"> Hi there, <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="35" alt="hi"> I'm 👨‍💻 <strong>Atul Kamble</strong>.</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/atuljkamble"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"> </a>
