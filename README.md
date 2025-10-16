@@ -1,5 +1,5 @@
 <!-- Atul Kamble | GitHub Profile -->
-<div align="center" style="background-color:#f0f9ff; padding:20px;">
+<div align="center" style="background-color:##000000; padding:20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=@atulkamble&fontSize=30&fontColor=ffffff"/>
 <h1 align="center"> Hi there, <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="35" alt="hi"> I'm 👨‍💻 <strong>Atul Kamble</strong>.</h1>
 <p align="center">
@@ -168,7 +168,7 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 - :octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
 
 
-<div align="center" style="background-color:#f0f9ff; padding:20px;">
+<div align="center" style="background-color:##000000; padding:20px;">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=160&section=footer"/>
 
