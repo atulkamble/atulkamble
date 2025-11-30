@@ -158,14 +158,21 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 
 ## ✍️ Let's Connect
 
-📝 Blogs: [Medium](https://atul-kamble.medium.com) | [Substack](https://atulkamble.substack.com)
-🎥 YouTube: [@AtulKamble](https://www.youtube.com/@AtulKamble)
-📧 Contact: atul_kamble@icloud.com
-🌍 Social: [BlueSky@atulkamble](https://bsky.app/profile/atulkamble.bsky.social), [Mastondon@atulkamble](https://hachyderm.io/@atulkamble)
-🖥️ Website: [www.cloudnautic.in](https://cloudnautic.in), [www.atulkamble.in](https://atulkamble.in)
-☕ [Buy Me a Book](https://www.buymeacoffee.com/AtulKamble)
-🥇 Accreditation : [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljkamble/wallet) | [Google Developers](https://developers.google.com/profile/u/atulkamble) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/atulkamble/)
-:octocat: [My Resume/CV](https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf)
+📝 **Blogs:** [Medium](https://atul-kamble.medium.com) | [Substack](https://atulkamble.substack.com)
+
+🎥 **YouTube:** https://www.youtube.com/@AtulKamble
+
+📧 **Contact:** atul_kamble@icloud.com
+
+🌍 **Social:** [BlueSky](https://bsky.app/profile/atulkamble.bsky.social) | [Mastodon](https://hachyderm.io/@atulkamble)
+
+🖥️ **Websites:** https://cloudnautic.in | https://atulkamble.in
+
+☕ **Buy Me a Book:** https://www.buymeacoffee.com/AtulKamble
+
+🥇 **Accreditation:** [Credly](https://www.credly.com/users/atulkamble) | [Accredible](https://www.credential.net/profile/atuljkamble/wallet) | [Google Developers](https://developers.google.com/profile/u/atulkamble) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/atulkamble/)
+
+:octocat: **Resume/CV:** https://github.com/atulkamble/atulkamble/blob/master/AtulKamble.pdf
 
 
 <div align="center" style="background-color:#f0f9ff; padding:20px;">
