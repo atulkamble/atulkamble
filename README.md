@@ -150,9 +150,7 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 
 </details>
 
-<p align='center'>
-  Do you like my open-source projects? <a href='https://stars.github.com/nominate/'>Nominate me to GitHub Stars ⭐</a>
-</p>
+
 
 ## 📈 GitHub Insights
 
