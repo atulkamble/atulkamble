@@ -40,6 +40,10 @@
   <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/github.png" alt="GitHub" width="50"/>
 </p>
 
+<p align='center'>
+  Do you like my open-source projects? <a href='https://stars.github.com/nominate/'>Nominate me to GitHub Stars ⭐</a>
+</p>
+
 <img src="https://github.com/atulkamble/atulkamble/blob/main/gif/line.gif" width="100%">
 
 <p align="center">
