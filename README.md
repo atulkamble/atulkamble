@@ -11,8 +11,8 @@
   <a href="mailto:atul_kamble@hotmail.com">
   <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
 </a>
-<a href="https://github.com/sponsors/rohitg00">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor rohitg00" />
+<a href="https://github.com/sponsors/atulkamble">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor atulkamble" />
   </a>
 
 <p align='center'>
