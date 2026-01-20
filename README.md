@@ -14,10 +14,6 @@
 <a href="https://github.com/sponsors/atulkamble">
     <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor atulkamble" />
   </a>
-
-<p align='center'>
-  Do you like my open-source projects? <a href='https://stars.github.com/nominate/'>Nominate me to GitHub Stars ⭐</a>
-</p>
   
 <br />
 <h3 align="center">☁️ 7x Microsoft Certified: Azure Solutions Architect Expert | 2x AWS Certified Solutions Architect - Associate | Founder & CEO @Cloudnautic | DevOps & IaC Specialist | Corporate & Technical Trainer | Engineer | Leader | Mentor | Speaker | Contributor | Author | Reviewer</h3>
@@ -153,6 +149,10 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 
 
 </details>
+
+<p align='center'>
+  Do you like my open-source projects? <a href='https://stars.github.com/nominate/'>Nominate me to GitHub Stars ⭐</a>
+</p>
 
 ## 📈 GitHub Insights
 
