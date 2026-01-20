@@ -48,9 +48,7 @@
   </a>
 </p>
 
-<p align='center'>
-  Do you like my open-source projects? <a href='https://stars.github.com/nominate/'>Nominate me to GitHub Stars ⭐</a>
-</p>
+
 
 
 ## 👨‍💼 About Me
