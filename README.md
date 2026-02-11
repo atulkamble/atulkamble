@@ -179,6 +179,8 @@ Explore my complete project list here: [Project Portfolio](https://github.com/at
 
 🌍 **Social:** [BlueSky](https://bsky.app/profile/atulkamble.bsky.social) | [Mastodon](https://hachyderm.io/@atulkamble)
 
+☁️ **Skill Builder Profile:** [Skill Builder:atulkamble](https://skillsprofile.skillbuilder.aws/user/atulkamble)
+
 🖥️ **Websites:** https://cloudnautic.in | https://atulkamble.in
 
 ☕ **Buy Me a Book:** https://www.buymeacoffee.com/AtulKamble
