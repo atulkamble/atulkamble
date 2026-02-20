@@ -16,7 +16,7 @@
   </a>
   
 <br />
-<h3 align="center">☁️ MCT - Microsoft Certified Trainer | 8x Microsoft Certified: Azure Solutions Architect Expert | DevOps Engineer Expert | 2x AWS Certified Solutions Architect - Associate | Founder & CEO @Cloudnautic | DevOps & IaC Specialist | Corporate & Technical Trainer | Engineer | Leader | Mentor | Speaker | Contributor | Author | Reviewer</h3>
+<h3 align="center">☁️ Microsoft Certified Trainer | 8x Microsoft Certified: Azure Solutions Architect Expert | DevOps Engineer Expert | 2x AWS Certified Solutions Architect - Associate | Founder & CEO @Cloudnautic | DevOps & IaC Specialist | Corporate & Technical Trainer | Engineer | Leader | Mentor | Speaker | Contributor | Author | Reviewer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atuljkamble/"><img src="https://github.com/atulkamble/atulkamble/blob/main/icons/linkedin.png" width="22px"></a>
