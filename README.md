@@ -4,66 +4,90 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=@atulkamble&fontSize=32&fontColor=ffffff"/>
 
-<h1>
-Hi 👋, I'm Atul Kamble
+<h1 align="center">
+Hi, I'm Atul Kamble
+<img src="https://github.com/atulkamble/atulkamble/blob/main/gif/hello.gif" width="40" alt="Hello"/>
 </h1>
 
-<h3>
+<h3 align="center">
 ☁️ Cloud Solutions Architect | ⚙️ DevOps Engineer | 🎓 Microsoft Certified Trainer
 </h3>
 
-<p>
+<p align="center">
 <strong>AWS • Azure • Terraform • Kubernetes • Docker • CI/CD • Ansible</strong>
 </p>
 
-<p>
+<p align="center">
 Designing and automating <strong>secure, scalable & highly available cloud infrastructure.</strong>
 </p>
 
+<p align="center">
+
 <a href="https://www.linkedin.com/in/atuljkamble">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/atulkamble">
-<img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub-atulkamble-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://cloudnautic.in">
-<img src="https://img.shields.io/badge/Cloudnautic-0ea5e9?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloudnautic-Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
-<br><br>
+</p>
+
+<br>
+
+<p align="center">
 
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/aws.png" width="50" alt="AWS"/>
+&nbsp;&nbsp;
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure.png" width="50" alt="Azure"/>
+&nbsp;&nbsp;
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/kubernetes.svg" width="50" alt="Kubernetes"/>
+&nbsp;&nbsp;
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/docker2.svg" width="50" alt="Docker"/>
+&nbsp;&nbsp;
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/terraform.png" width="50" alt="Terraform"/>
+&nbsp;&nbsp;
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/ansible.png" width="50" alt="Ansible"/>
+&nbsp;&nbsp;
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure-devops.svg" width="50" alt="Azure DevOps"/>
+&nbsp;&nbsp;
 <img src="https://github.com/atulkamble/atulkamble/blob/main/Logos/github.png" width="50" alt="GitHub"/>
+
+</p>
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Cloud Solutions Architect & DevOps Engineer** specializing in designing, deploying and automating cloud infrastructure across **AWS and Microsoft Azure**.
-
-* ☁️ Cloud Architecture & Infrastructure
-* ⚙️ DevOps & CI/CD Automation
-* 🏗️ Infrastructure as Code (IaC)
-* 🐳 Containers & Kubernetes
-* 🔐 Cloud Security & Identity
-* 📊 Monitoring & Observability
-* 🎓 Corporate & Technical Training
-
-**Microsoft Certified Trainer (MCT)** | **Azure Solutions Architect Expert** | **Azure DevOps Engineer Expert** | **2× AWS Solutions Architect – Associate**
+<img src="https://github.com/atulkamble/atulkamble/blob/main/gif/line.gif" width="100%">
 
 ---
 
-## 🛠️ Technical Skills
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+Cloud Solutions Architect & DevOps Engineer specializing in <strong>AWS, Microsoft Azure, Cloud Infrastructure, DevOps Automation and Infrastructure as Code.</strong>
+</p>
+
+<p align="center">
+☁️ Cloud Architecture & Infrastructure<br>
+⚙️ DevOps & CI/CD Automation<br>
+🏗️ Infrastructure as Code<br>
+🐳 Containers & Kubernetes<br>
+🔐 Cloud Security & Identity<br>
+📊 Monitoring & Observability
+</p>
+
+<p align="center">
+<strong>Microsoft Certified Trainer (MCT)</strong><br>
+Azure Solutions Architect Expert • Azure DevOps Engineer Expert • 2× AWS Solutions Architect – Associate
+</p>
+
+---
+
+<h2 align="center">🛠️ Technical Skills</h2>
 
 ### ☁️ Cloud Platforms
 
@@ -99,10 +123,13 @@ I'm a **Cloud Solutions Architect & DevOps Engineer** specializing in designing,
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <details>
-<summary><strong>☁️ Cloud, DevOps & Infrastructure Projects</strong></summary>
+
+<summary align="center">
+<strong>☁️ Cloud, DevOps & Infrastructure Projects — Click to Expand</strong>
+</summary>
 
 <br>
 
@@ -136,35 +163,65 @@ I'm a **Cloud Solutions Architect & DevOps Engineer** specializing in designing,
 
 </details>
 
-### 👉 [Explore All Projects](https://github.com/atulkamble?tab=repositories)
-
----
-
-## 📈 GitHub Insights
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atulkamble&theme=tokyonight&show_icons=true&hide_border=true" width="480"/>
+### 👉 [Explore All Projects](https://github.com/atulkamble?tab=repositories)
 
 </p>
 
 ---
 
-## 🤝 Connect
+<h2 align="center">📊 GitHub Insights</h2>
 
-🌐 **Website:** [cloudnautic.in](https://cloudnautic.in)
-💼 **LinkedIn:** [Atul Kamble](https://www.linkedin.com/in/atuljkamble)
-🥇 **Credentials:** [Credly](https://www.credly.com/users/atulkamble) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/atulkamble/)
-🎥 **YouTube:** [@AtulKamble](https://www.youtube.com/@AtulKamble)
-📧 **Email:** [atul_kamble@icloud.com](mailto:atul_kamble@icloud.com)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=atulkamble&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="Atul Kamble GitHub Stats"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulkamble&layout=compact&hide_border=true&langs_count=8" height="170" alt="Most Used Languages"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atulkamble&theme=github" width="700" alt="GitHub Profile Summary"/>
+
+</div>
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+
+### 🌐 Professional
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atul_Kamble-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/atuljkamble)
+[![Cloudnautic](https://img.shields.io/badge/Cloudnautic-Website-0EA5E9?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://cloudnautic.in)
+
+### 🎓 Credentials
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Profile-258FFA?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/en-us/users/atulkamble/)
+[![Credly](https://img.shields.io/badge/Credly-Credentials-FF6B00?style=for-the-badge)](https://www.credly.com/users/atulkamble)
+
+### 🎥 Content
+
+[![YouTube](https://img.shields.io/badge/YouTube-Atul_Kamble-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@AtulKamble)
+
+### 📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-atul__kamble%40icloud.com-555555?style=for-the-badge\&logo=icloud\&logoColor=white)](mailto:atul_kamble@icloud.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ☁️ Architect • Automate • Secure • Scale
+<h2>☁️ Architect • Automate • Secure • Scale</h2>
 
-**AWS | Azure | DevOps | Infrastructure as Code | Kubernetes**
+<strong>AWS | Azure | DevOps | Kubernetes | Infrastructure as Code</strong>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
 
