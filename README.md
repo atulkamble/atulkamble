@@ -16,12 +16,6 @@ Pune, India · Founder & CEO, Cloudnautic
 
 Cloud Solutions Architect and technical trainer with 7+ years of experience across AWS, Microsoft Azure, Google Cloud, Linux, Infrastructure as Code, Kubernetes, and DevOps. Delivered 100+ workshops and webinars; trained 5,000+ learners.
 
-## GitHub achievements
-
-**Pull Shark ×2** · **Quickdraw** · **YOLO** · **Public Sponsor** · **Starstruck** · **Arctic Code Vault Contributor**
-
-**GitHub highlight:** Developer Program Member
-
 ## Technical stack
 
 <p>
