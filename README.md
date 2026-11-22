@@ -1,83 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:075985&height=190&section=header&text=ATUL%20KAMBLE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CLOUD%20ARCHITECTURE%20%7C%20DEVOPS%20%7C%20TECHNICAL%20TRAINING&descAlignY=63&descSize=15" alt="Atul Kamble — Cloud Architecture, DevOps, Technical Training" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:075985&height=175&section=header&text=ATUL%20KAMBLE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CLOUD%20ARCHITECTURE%20%7C%20DEVOPS%20%7C%20TECHNICAL%20TRAINING&descAlignY=62&descSize=14" alt="Atul Kamble — Cloud architecture, DevOps, and technical training" />
 
-### Cloud Solutions Architect | Cloud & DevOps Trainer | Microsoft Certified Trainer
+### Cloud Solutions Architect · Cloud & DevOps Trainer · Microsoft Certified Trainer
 
-**Helping organizations build scalable, reliable, and cost-optimized cloud platforms.**
+**Cloud platforms, infrastructure automation, containers, and CI/CD.**
 
-Pune, Maharashtra, India · Founder & CEO, Cloudnautic
+Pune, India · Founder & CEO, Cloudnautic
 
-[Portfolio](https://atulkamble.com) &nbsp;·&nbsp; [Cloudnautic](https://cloudnautic.in) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/atuljkamble/)
+[Portfolio](https://atulkamble.com) &nbsp;·&nbsp; [Cloudnautic](https://cloudnautic.in) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/atuljkamble/) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@AtulKamble)
 
 </div>
 
----
-
 ## Profile
 
-Cloud architect and technical trainer working across AWS, Microsoft Azure, and Google Cloud. Focused on cloud infrastructure, DevOps automation, Infrastructure as Code, CI/CD, containers, Kubernetes, and practical technical education.
+Cloud Solutions Architect and technical trainer with 7+ years of experience across AWS, Microsoft Azure, Google Cloud, Linux, Infrastructure as Code, Kubernetes, and DevOps. Delivered 100+ workshops and webinars; trained 5,000+ learners.
 
-**7+ years’ experience** · **100+ workshops and webinars delivered** · **5,000+ learners trained**
+## Technical stack
 
-## Technology
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+</p>
 
-| Cloud | Infrastructure | Containers | Delivery and operations |
-|---|---|---|---|
-| AWS · Azure · Google Cloud | Terraform · Bicep · CloudFormation · Ansible | Docker · Kubernetes · AKS · EKS · GKE · Helm | Azure DevOps · GitHub Actions · Jenkins · Linux · Bash · PowerShell · Python |
+| Cloud | IaC and automation | Platforms and delivery |
+|---|---|---|
+| AWS · Azure · Google Cloud | Terraform · Bicep · CloudFormation · Ansible | Docker · Kubernetes · AKS · EKS · GKE · Helm |
+| EC2 · S3 · IAM · VPC · Lambda · Azure Functions · ADF · ACR | Linux · Bash · PowerShell · Python | Azure DevOps · GitHub Actions · Jenkins · CI/CD |
 
-## Portfolio
+## Selected portfolio
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Technical scope |
+|---|---|
+| [Terraform](https://github.com/atulkamble/terraform) | Providers, variables, outputs, state, modules, and labs |
+| [AKS web app deployment](https://github.com/atulkamble/terraform-aks-webapp-deployment) | Terraform, Azure Container Registry, AKS, Azure Pipelines |
+| [Azure Functions](https://github.com/atulkamble/azure-functions-basics) | Python serverless APIs |
+| [Ansible labs](https://github.com/atulkamble/basic-ansible) · [Roles](https://github.com/atulkamble/ansible-roles) | Inventory, playbooks, roles, Jinja2, Amazon Linux |
+| [CloudOps dashboard](https://github.com/atulkamble/cloudops-dashboard) | Nginx, Flask, MySQL, Docker Compose |
+| [Azure Data Factory](https://github.com/atulkamble/Azure-Data-Factory-DataFlow-Project) | Terraform deployment and data transformation |
+| [AWS Auto Scaling](https://github.com/atulkamble/ASG-LB-Project) | EC2, launch templates, Auto Scaling, load balancing |
+| [Blue-green deployment](https://github.com/atulkamble/Blue-Green-Deployment) | Blue-green and canary deployment patterns |
 
-### Infrastructure as code
-**Terraform** — providers, variables, outputs, state, modules, labs  
-[Open repository →](https://github.com/atulkamble/terraform)
-
-### Azure platform
-**AKS web app deployment** — Terraform, ACR, AKS, Azure Pipelines  
-[Open repository →](https://github.com/atulkamble/terraform-aks-webapp-deployment)
-
-### Serverless
-**Azure Functions** — Python APIs and serverless application workflow  
-[Open repository →](https://github.com/atulkamble/azure-functions-basics)
-
-</td>
-<td width="50%" valign="top">
-
-### Configuration management
-**Ansible** — inventories, playbooks, reusable roles, Jinja2 templates  
-[Basic configuration](https://github.com/atulkamble/basic-ansible) · [Roles](https://github.com/atulkamble/ansible-roles)
-
-### Cloud operations
-**CloudOps dashboard** — Nginx, Flask, MySQL, Docker Compose  
-[Open repository →](https://github.com/atulkamble/cloudops-dashboard)
-
-### Data engineering
-**Azure Data Factory** — Terraform deployment and data flow  
-[Open repository →](https://github.com/atulkamble/Azure-Data-Factory-DataFlow-Project)
-
-</td>
-</tr>
-</table>
-
-**More portfolio work:** [AWS Auto Scaling and Load Balancer](https://github.com/atulkamble/ASG-LB-Project) · [Blue-green deployment](https://github.com/atulkamble/Blue-Green-Deployment) · [Flask on containers](https://github.com/atulkamble/flask-app) · [All repositories](https://github.com/atulkamble?tab=repositories)
+[Browse all public repositories](https://github.com/atulkamble?tab=repositories)
 
 ## Certifications
 
-- Microsoft Certified Trainer (MCT)
-- Microsoft Certified: DevOps Engineer Expert
-- Microsoft Certified: Azure Solutions Architect Expert
-- Microsoft Certified: Azure Administrator Associate
-- Microsoft Certified: Azure AI Engineer Associate
-- Microsoft Pro Badge: GitHub Copilot — Proficient
-- AWS Certified Solutions Architect – Associate
+**Microsoft:** Certified Trainer (MCT) · DevOps Engineer Expert · Azure Solutions Architect Expert · Azure Administrator Associate · Azure AI Engineer Associate · GitHub Copilot Proficient badge  
+**AWS:** Certified Solutions Architect – Associate
 
 ## Education
 
-M.Tech, Information Technology · MBA, IT Management
+M.Tech, Information Technology · MBA, Information Technology Management
 
 ## GitHub activity
 
@@ -89,10 +70,5 @@ M.Tech, Information Technology · MBA, IT Management
 
 ## Contact
 
-[atulkamble.com](https://atulkamble.com) · [LinkedIn](https://www.linkedin.com/in/atuljkamble/) · [YouTube](https://www.youtube.com/@AtulKamble) · [atul_kamble@icloud.com](mailto:atul_kamble@icloud.com)
+[Website](https://atulkamble.com) · [Cloudnautic](https://cloudnautic.in) · [LinkedIn](https://www.linkedin.com/in/atuljkamble/) · [Email](mailto:atul_kamble@icloud.com)
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,100:0f172a&height=90&section=footer" alt="" />
-
-</div>
