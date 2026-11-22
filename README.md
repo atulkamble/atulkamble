@@ -16,6 +16,12 @@ Pune, India · Founder & CEO, Cloudnautic
 
 Cloud Solutions Architect and technical trainer with 7+ years of experience across AWS, Microsoft Azure, Google Cloud, Linux, Infrastructure as Code, Kubernetes, and DevOps. Delivered 100+ workshops and webinars; trained 5,000+ learners.
 
+## GitHub achievements
+
+**Pull Shark ×2** · **Quickdraw** · **YOLO** · **Public Sponsor** · **Starstruck** · **Arctic Code Vault Contributor**
+
+**GitHub highlight:** Developer Program Member
+
 ## Technical stack
 
 <p>
@@ -36,18 +42,16 @@ Cloud Solutions Architect and technical trainer with 7+ years of experience acro
 | AWS · Azure · Google Cloud | Terraform · Bicep · CloudFormation · Ansible | Docker · Kubernetes · AKS · EKS · GKE · Helm |
 | EC2 · S3 · IAM · VPC · Lambda · Azure Functions · ADF · ACR | Linux · Bash · PowerShell · Python | Azure DevOps · GitHub Actions · Jenkins · CI/CD |
 
-## Selected portfolio
+## Pinned portfolio
+
+These featured repositories match the projects pinned on my GitHub profile.
 
 | Project | Technical scope |
 |---|---|
-| [Terraform](https://github.com/atulkamble/terraform) | Providers, variables, outputs, state, modules, and labs |
-| [AKS web app deployment](https://github.com/atulkamble/terraform-aks-webapp-deployment) | Terraform, Azure Container Registry, AKS, Azure Pipelines |
-| [Azure Functions](https://github.com/atulkamble/azure-functions-basics) | Python serverless APIs |
-| [Ansible labs](https://github.com/atulkamble/basic-ansible) · [Roles](https://github.com/atulkamble/ansible-roles) | Inventory, playbooks, roles, Jinja2, Amazon Linux |
-| [CloudOps dashboard](https://github.com/atulkamble/cloudops-dashboard) | Nginx, Flask, MySQL, Docker Compose |
-| [Azure Data Factory](https://github.com/atulkamble/Azure-Data-Factory-DataFlow-Project) | Terraform deployment and data transformation |
-| [AWS Auto Scaling](https://github.com/atulkamble/ASG-LB-Project) | EC2, launch templates, Auto Scaling, load balancing |
-| [Blue-green deployment](https://github.com/atulkamble/Blue-Green-Deployment) | Blue-green and canary deployment patterns |
+| [AKS web app deployment](https://github.com/atulkamble/terraform-aks-webapp-deployment) | Azure infrastructure with Terraform, ACR, AKS, and Azure Pipelines |
+| [CloudOps dashboard](https://github.com/atulkamble/cloudops-dashboard) | Nginx, Flask, MySQL, Docker Compose, and AWS ECS deployment templates |
+| [Azure Data Factory data flow](https://github.com/atulkamble/Azure-Data-Factory-DataFlow-Project) | Terraform-provisioned ADF pipeline and employee CSV transformation |
+| [Ansible and Terraform web servers](https://github.com/atulkamble/ansible-terraform-webservers) | Terraform-provisioned AWS web servers configured with Ansible |
 
 [Browse all public repositories](https://github.com/atulkamble?tab=repositories)
 
