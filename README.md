@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:075985&height=190&section=header&text=ATUL%20KAMBLE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CLOUD%20ARCHITECTURE%20%7C%20DEVOPS%20%7C%20TECHNICAL%20TRAINING&descAlignY=63&descSize=15" alt="Atul Kamble — Cloud Architecture, DevOps, Technical Training" />
 
-### Cloud Solutions Architect · DevOps Engineer · Microsoft Certified Trainer
+### Cloud Solutions Architect | Cloud & DevOps Trainer | Microsoft Certified Trainer
 
-**I design cloud infrastructure, automate delivery, and build hands-on technical labs.**
+**Helping organizations build scalable, reliable, and cost-optimized cloud platforms.**
 
-Pune, India · Founder & CEO, Cloudnautic
+Pune, Maharashtra, India · Founder & CEO, Cloudnautic
 
 [Portfolio](https://atulkamble.com) &nbsp;·&nbsp; [Cloudnautic](https://cloudnautic.in) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/atuljkamble/)
 
@@ -14,11 +14,11 @@ Pune, India · Founder & CEO, Cloudnautic
 
 ---
 
-## What I work on
+## Profile
 
-Cloud infrastructure and automation across **AWS, Microsoft Azure, and Google Cloud**. Focus areas include **Terraform and Ansible**, **Docker and Kubernetes**, **CI/CD**, Linux operations, and technical training.
+Cloud architect and technical trainer working across AWS, Microsoft Azure, and Google Cloud. Focused on cloud infrastructure, DevOps automation, Infrastructure as Code, CI/CD, containers, Kubernetes, and practical technical education.
 
-**Experience:** 7+ years · **Training:** 100+ workshops and webinars · **Learners:** 5,000+
+**7+ years’ experience** · **100+ workshops and webinars delivered** · **5,000+ learners trained**
 
 ## Technology
 
@@ -65,11 +65,19 @@ Cloud infrastructure and automation across **AWS, Microsoft Azure, and Google Cl
 
 **More portfolio work:** [AWS Auto Scaling and Load Balancer](https://github.com/atulkamble/ASG-LB-Project) · [Blue-green deployment](https://github.com/atulkamble/Blue-Green-Deployment) · [Flask on containers](https://github.com/atulkamble/flask-app) · [All repositories](https://github.com/atulkamble?tab=repositories)
 
-## Credentials
+## Certifications
 
-**Microsoft:** Certified Trainer (MCT) · DevOps Engineer Expert · Azure Solutions Architect Expert · Azure Administrator Associate · Azure AI Engineer Associate  
-**AWS:** Certified Solutions Architect – Associate  
-**Education:** M.Tech, Information Technology · MBA, IT Management
+- Microsoft Certified Trainer (MCT)
+- Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure AI Engineer Associate
+- Microsoft Pro Badge: GitHub Copilot — Proficient
+- AWS Certified Solutions Architect – Associate
+
+## Education
+
+M.Tech, Information Technology · MBA, IT Management
 
 ## GitHub activity
 
