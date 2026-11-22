@@ -1,106 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0b3b63,100:0ea5e9&height=210&section=header&text=ATUL%20KAMBLE&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=CLOUD%20ARCHITECTURE%20%20%2F%2F%20%20DEVOPS%20%20%2F%2F%20%20TECHNICAL%20TRAINING&descAlignY=60&descSize=14" alt="Atul Kamble — Cloud Architecture, DevOps, Technical Training" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:075985&height=190&section=header&text=ATUL%20KAMBLE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CLOUD%20ARCHITECTURE%20%7C%20DEVOPS%20%7C%20TECHNICAL%20TRAINING&descAlignY=63&descSize=15" alt="Atul Kamble — Cloud Architecture, DevOps, Technical Training" />
 
-### ☁️ Cloud Solutions Architect &nbsp;·&nbsp; ⚙️ DevOps Trainer &nbsp;·&nbsp; 🎓 Microsoft Certified Trainer
+### Cloud Solutions Architect | Cloud & DevOps Trainer | Microsoft Certified Trainer
 
-**Designing cloud platforms. Automating delivery. Building practical skills.**
+**Helping organizations build scalable, reliable, and cost-optimized cloud platforms.**
 
-Pune, India &nbsp;·&nbsp; Founder & CEO, Cloudnautic
+Pune, Maharashtra, India · Founder & CEO, Cloudnautic
 
-[🌐 Portfolio](https://atulkamble.com) &nbsp; [🏢 Cloudnautic](https://cloudnautic.in) &nbsp; [🤝 LinkedIn](https://www.linkedin.com/in/atuljkamble/)
+[Portfolio](https://atulkamble.com) &nbsp;·&nbsp; [Cloudnautic](https://cloudnautic.in) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/atuljkamble/)
 
 </div>
 
 ---
 
-<div align="center">
+## Profile
 
-**7+ YEARS EXPERIENCE** &nbsp; ◆ &nbsp; **100+ WORKSHOPS** &nbsp; ◆ &nbsp; **5,000+ LEARNERS**
+Cloud architect and technical trainer working across AWS, Microsoft Azure, and Google Cloud. Focused on cloud infrastructure, DevOps automation, Infrastructure as Code, CI/CD, containers, Kubernetes, and practical technical education.
 
-</div>
+**7+ years’ experience** · **100+ workshops and webinars delivered** · **5,000+ learners trained**
 
-## ☁️ Cloud engineering
+## Technology
 
-Cloud infrastructure and DevOps automation across AWS, Microsoft Azure, and Google Cloud.
-
-| ☁️ Cloud platforms | 🧱 Infrastructure as code | 📦 Containers | 🔄 Delivery and operations |
+| Cloud | Infrastructure | Containers | Delivery and operations |
 |---|---|---|---|
 | AWS · Azure · Google Cloud | Terraform · Bicep · CloudFormation · Ansible | Docker · Kubernetes · AKS · EKS · GKE · Helm | Azure DevOps · GitHub Actions · Jenkins · Linux · Bash · PowerShell · Python |
 
-## 🧭 Portfolio map
+## Portfolio
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧱 Infrastructure
-**Terraform**  
-Providers, variables, outputs, state, modules, labs  
-[Explore the repo →](https://github.com/atulkamble/terraform)
+### Infrastructure as code
+**Terraform** — providers, variables, outputs, state, modules, labs  
+[Open repository →](https://github.com/atulkamble/terraform)
 
-### 🔷 Azure platform
-**AKS web app deployment**  
-Terraform · ACR · AKS · Azure Pipelines  
-[Explore the repo →](https://github.com/atulkamble/terraform-aks-webapp-deployment)
+### Azure platform
+**AKS web app deployment** — Terraform, ACR, AKS, Azure Pipelines  
+[Open repository →](https://github.com/atulkamble/terraform-aks-webapp-deployment)
 
-### ⚡ Serverless
-**Azure Functions**  
-Python APIs · serverless workflow  
-[Explore the repo →](https://github.com/atulkamble/azure-functions-basics)
+### Serverless
+**Azure Functions** — Python APIs and serverless application workflow  
+[Open repository →](https://github.com/atulkamble/azure-functions-basics)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Configuration management
-**Ansible**  
-Inventories · playbooks · roles · Jinja2  
-[Basic setup](https://github.com/atulkamble/basic-ansible) · [Roles lab](https://github.com/atulkamble/ansible-roles)
+### Configuration management
+**Ansible** — inventories, playbooks, reusable roles, Jinja2 templates  
+[Basic configuration](https://github.com/atulkamble/basic-ansible) · [Roles](https://github.com/atulkamble/ansible-roles)
 
-### 📊 Cloud operations
-**CloudOps dashboard**  
-Nginx · Flask · MySQL · Docker Compose  
-[Explore the repo →](https://github.com/atulkamble/cloudops-dashboard)
+### Cloud operations
+**CloudOps dashboard** — Nginx, Flask, MySQL, Docker Compose  
+[Open repository →](https://github.com/atulkamble/cloudops-dashboard)
 
-### 🔄 Data engineering
-**Azure Data Factory**  
-Terraform deployment · data flow  
-[Explore the repo →](https://github.com/atulkamble/Azure-Data-Factory-DataFlow-Project)
+### Data engineering
+**Azure Data Factory** — Terraform deployment and data flow  
+[Open repository →](https://github.com/atulkamble/Azure-Data-Factory-DataFlow-Project)
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>More cloud and DevOps projects</strong></summary>
+**More portfolio work:** [AWS Auto Scaling and Load Balancer](https://github.com/atulkamble/ASG-LB-Project) · [Blue-green deployment](https://github.com/atulkamble/Blue-Green-Deployment) · [Flask on containers](https://github.com/atulkamble/flask-app) · [All repositories](https://github.com/atulkamble?tab=repositories)
 
-- [AWS Auto Scaling and Load Balancer](https://github.com/atulkamble/ASG-LB-Project) — EC2, launch templates, Auto Scaling Groups, load balancing
-- [Blue-green deployment](https://github.com/atulkamble/Blue-Green-Deployment) — blue-green and canary deployment patterns
-- [Flask on containers](https://github.com/atulkamble/flask-app) — Flask, Docker, ACR, AKS deployment
-- [All public repositories](https://github.com/atulkamble?tab=repositories)
+## Certifications
 
-</details>
+- Microsoft Certified Trainer (MCT)
+- Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure AI Engineer Associate
+- Microsoft Pro Badge: GitHub Copilot — Proficient
+- AWS Certified Solutions Architect – Associate
 
-## 🎓 Certifications
+## Education
 
-**Microsoft** · Certified Trainer (MCT) · DevOps Engineer Expert · Azure Solutions Architect Expert · Azure Administrator Associate · Azure AI Engineer Associate · GitHub Copilot Proficient badge  
-**AWS** · Certified Solutions Architect – Associate  
-**Education** · M.Tech, Information Technology · MBA, IT Management
+M.Tech, Information Technology · MBA, IT Management
 
-## 📈 GitHub activity
+## GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atulkamble&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff" alt="GitHub contribution activity graph for Atul Kamble" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atulkamble&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph for Atul Kamble" width="100%" />
 
 </div>
 
-## 🤝 Contact
+## Contact
 
-[🌐 atulkamble.com](https://atulkamble.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/atuljkamble/) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@AtulKamble) &nbsp;·&nbsp; [Email](mailto:atul_kamble@icloud.com)
+[atulkamble.com](https://atulkamble.com) · [LinkedIn](https://www.linkedin.com/in/atuljkamble/) · [YouTube](https://www.youtube.com/@AtulKamble) · [atul_kamble@icloud.com](mailto:atul_kamble@icloud.com)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:07111f&height=100&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,100:0f172a&height=90&section=footer" alt="" />
 
 </div>
