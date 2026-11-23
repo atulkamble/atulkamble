@@ -6,7 +6,7 @@
 
 **Cloud platforms, infrastructure automation, containers, and CI/CD.**
 
-Pune, India · Founder & CEO, Cloudnautic
+Pune, India
 
 [Portfolio](https://atulkamble.com) &nbsp;·&nbsp; [Cloudnautic](https://cloudnautic.in) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/atuljkamble/) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@AtulKamble)
 
